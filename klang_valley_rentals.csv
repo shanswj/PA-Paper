@@ -1,0 +1,1239 @@
+listing_id,location,property_type,rooms,bathrooms,car_parks,size_sqft,furnished,monthly_rent,date_listed,agent_rating
+KV100369,Mont Kiara,Condominium,4.0,4.0,2.0,"1,000 sq. ft.",Partly Furnished,"RM 4,350",08/05/2026,4.2
+KV100283,Setapak,Serviced Residence,3.0,2.0,0.0,"1,090 sq. ft.",Partially Furnished,"RM 2,200",2025-10-29,3.4
+KV100051,AMPANG,Serviced Residence,4.0,3.0,,950 sq. ft.,Partially Furnished,"RM 2,800",04/05/2026,3.4
+KV100409,Subang Jaya  ,Condominium,2.0,1.0,2.0,850 sq. ft.,Partly Furnished,"RM 2,200",2025-04-24,4.0
+KV100766,PUCHONG,Condominium,3.0,2.0,2.0,830 sq. ft.,Partially Furnished,"RM 1,700",2025-08-05,3.6
+KV100034,Cyberjaya,Condominium,4.0,,2.0,870 sq. ft.,Fully Furnished,"RM 2,400",2025-11-20,
+KV100565,KAJANG,Serviced Residence,3.0,2.0,2.0,810 sq. ft.,Partially Furnished,"RM 1,550",2026-08-16,4.6
+KV100668,KLCC,Condominium,3.0,2.0,2.0,"1,170 sq. ft.",Not Furnished,"RM 4,650",2026-01-22,3.2
+KV100358,petaling jaya,Apartment,3.0,2.0,2.0,870 sq. ft.,Fully Furnished,"RM 2,450",2025-06-25,4.2
+KV100586,Puchong,Condominium,2.0,,0.0,"1,140 sq. ft.",Fully Furnished,"RM 2,700",2025-11-08,4.3
+KV100412,PUCHONG,Terrace House,5.0,4.0,2.0,"1,870 sq. ft.",not furnished,"RM 2,850",2025-04-14,4.3
+KV100961,Cyberjaya,Condominium,4.0,4.0,1.0,990 sq. ft.,Not Furnished,"RM 1,650",2025-07-19,3.2
+KV100442,Setapak,Apartment,2.0,2.0,2.0,950 sq. ft.,Fully Furnished,"RM 1,900",2026-07-31,4.7
+KV101153,mont kiara,Terrace House,3.0,3.0,2.0,"1,610 sq. ft.",fully furnished,"RM 6,900",2025-08-07,3.7
+KV100837,Ampang,Serviced Residence,4.0,3.0,3.0,720 sq. ft.,Fully Furnished,"RM 2,600",21/07/2026,4.1
+KV101063,Cyberjaya,Condominium,2.0,1.0,1.0,"1,090 sq. ft.",Fully Furnished,"RM 2,900",2026-01-07,3.9
+KV101123,Shah Alam,Serviced Residence,3.0,2.0,2.0,"1,140 sq. ft.",Partially Furnished,"RM 3,050",2025-09-02,3.8
+KV100101,Cyberjaya,Terrace House,5.0,5.0,2.0,"2,280 sq. ft.",Fully Furnished,"RM 4,350",2026-03-06,3.9
+KV101002,KLCC,Condominium,3.0,2.0,2.0,"1,530 sq. ft.",Full Furnished,"RM 7,200",31/07/2026,3.8
+KV100263,Petaling Jaya,Terrace House,3.0,2.0,0.0,"1,780 sq. ft.",Partially Furnished,"RM 4,200",2025-04-12,
+KV100691,KLCC  ,Apartment,2.0,1.0,1.0,900 sq. ft.,Partially Furnished,"RM 3,700",2026-05-04,
+KV100609,Shah Alam,Studio,,1.0,-0.0,480 sq. ft.,,"RM 1,200",18/03/2026,4.0
+KV101197,Puchong  ,Serviced Residence,3.0,2.0,2.0,"1,230 sq. ft.",Not Furnished,"RM 2,250",02/08/2026,4.0
+KV100141,Bangsar,Serviced Residence,3.0,2.0,0.0,"1,130 sq. ft.",Fully Furnished,"RM 5,950",16/04/2026,4.0
+KV100705,PUCHONG,Condominium,2.0,2.0,,"1,490 sq. ft.",Fully Furnished,"RM 2,700",04/02/2026,4.2
+KV100700,Bangsar,Studio,1.0,1.0,2.0,350 sq. ft.,Fully Furnished,"RM 1,750",2025-09-19,4.2
+KV100832,kajang,Condominium,3.0,2.0,,"1,370 sq. ft.",Fully Furnished,"RM 2,900",2025-12-20,4.4
+KV100900,Ampang,Apartment,3.0,3.0,,950 sq. ft.,,"RM 2,700",11/06/2026,3.7
+KV100557,Shah Alam,Apartment,2.0,1.0,2.0,900 sq. ft.,fully furnished,"RM 1,850",2025-12-03,
+KV100316,Setapak,Condominium,4.0,,3.0,"1,390 sq. ft.",Not Furnished,"RM 2,600",2025-12-19,4.2
+KV100418,  Mont Kiara ,Condominium,2.0,1.0,1.0,"1,420 sq. ft.",Partly Furnished,"RM 5,400",2025-07-08,3.8
+KV100503,klcc,Serviced Residence,2.0,2.0,1.0,830 sq. ft.,PARTIALLY FURNISHED,"RM 3,700",2025-07-27,4.5
+KV101157,Ampang,Apartment,,,2.0,890 sq. ft.,Partially Furnished,"RM 2,550",2025-11-26,4.7
+KV101069,KLCC,Condominium,4.0,4.0,2.0,"1,220 sq. ft.",partially furnished,"RM 5,500",2026-05-07,4.1
+KV100722,Subang Jaya,Serviced Residence,4.0,,2.0,910 sq. ft.,Not Furnished,"RM 2,400",2026-02-16,4.5
+KV100718,Setapak  ,Condominium,2.0,2.0,1.0,"1,240 sq. ft.",fully furnished,"RM 2,850",2026-02-27,4.0
+KV100528,Cyberjaya,Serviced Residence,3.0,2.0,0.0,690 sq. ft.,Partially Furnished,"RM 1,700",03/05/2025,3.4
+KV100228,Kajang,Condominium,3.0,2.0,2.0,"1,130 sq. ft.",Partially Furnished,"RM 2,150",27/02/2026,4.1
+KV100591,KLCC,Apartment,2.0,1.0,1.0,790 sq. ft.,Fully Furnished,"RM 3,800",30/10/2025,
+KV100664,KLCC,Serviced Residence,4.0,3.0,,920 sq. ft.,Fully Furnished,"RM 5,150",2025-03-12,
+KV100508,Petaling Jaya,Condominium,4.0,3.0,1.0,"1,120 sq. ft.",Fully Furnished,"RM 3,850",2026-03-24,5.0
+KV100510,Ampang,Apartment,4.0,3.0,2.0,900 sq. ft.,Full Furnished,"RM 2,800",30/07/2025,5.0
+KV100113,Ampang,Apartment,2.0,1.0,,870 sq. ft.,Not Furnished,"RM 2,150",2026-05-03,3.2
+KV100109,Ampang,Condominium,4.0,3.0,3.0,870 sq. ft.,Fully Furnished,"RM 3,150",2025-05-26,3.9
+KV101186,Kajang,Studio,1.0,1.0,0.0,460 sq. ft.,Fully Furnished,"RM 1,250",2026-08-13,4.1
+KV100170,Cyberjaya,Serviced Residence,2.0,1.0,0.0,680 sq. ft.,Full Furnished,"RM 1,750",2025-05-15,4.1
+KV100128,Cyberjaya,Condominium,4.0,3.0,,"1,130 sq. ft.",Fully Furnished,"RM 3,350",2025-11-27,
+KV100207,Subang Jaya,Serviced Residence,4.0,3.0,2.0,710 sq. ft.,Partially Furnished,"RM 1,750",26/07/2025,4.3
+KV100363,Mont Kiara,Serviced Residence,2.0,1.0,0.0,"1,020 sq. ft.",Not Furnished,"RM 4,300",10/06/2026,0.0
+KV100027,Cyberjaya  ,Studio,1.0,1.0,2.0,420 sq. ft.,Partially Furnished,"RM 1,100",07/03/2026,3.9
+KV101138,Puchong,Condominium,4.0,,2.0,"1,240 sq. ft.",Not Furnished,"RM 2,050",2026-03-11,4.3
+KV100457,MONT KIARA,Terrace House,3.0,2.0,2.0,"1,510 sq. ft.",Full Furnished,RM 0,2025-05-10,4.0
+KV100915,Setapak,Studio,1.0,1.0,0.0,300 sq. ft.,FULLY FURNISHED,RM 800,07/09/2025,3.6
+KV100272,Subang Jaya,Studio,1.0,1.0,-0.0,510 sq. ft.,,"RM 1,450",2026-05-26,5.0
+KV100687,Cyberjaya,Condominium,2.0,1.0,0.0,"1,140 sq. ft.",Partly Furnished,"RM 2,450",09/01/2026,3.5
+KV100367,  Petaling Jaya ,Condominium,2.0,1.0,1.0,870 sq. ft.,Fully Furnished,"RM 2,550",2026-01-28,
+KV100945,ampang,Condominium,2.0,1.0,0.0,"1,270 sq. ft.",Fully Furnished,"RM 4,000",10/07/2026,4.1
+KV100880,Kajang,Apartment,4.0,4.0,3.0,980 sq. ft.,Partially Furnished,"RM 1,450",2025-04-11,3.8
+KV100397,PETALING JAYA,Serviced Residence,4.0,3.0,,950 sq. ft.,Fully Furnished,"RM 3,450",2025-03-17,3.4
+KV100110,Kajang,Serviced Residence,2.0,1.0,1.0,,Partly Furnished,"RM 1,950",2025-08-16,4.1
+KV101135,  Puchong ,Serviced Residence,2.0,1.0,,940 sq. ft.,Partially Furnished,"RM 1,850",2026-07-28,4.3
+KV100976,Cheras,Condominium,4.0,,3.0,"1,140 sq. ft.",Partially Furnished,"RM 2,500",2025-12-18,3.2
+KV100063,Cheras,Apartment,4.0,3.0,2.0,820 sq. ft.,Not Furnished,"RM 1,450",09/09/2025,4.3
+KV101087,Shah Alam  ,Apartment,3.0,3.0,0.0,"1,060 sq. ft.",Fully Furnished,RM 0,2025-10-16,4.2
+KV100431,Petaling Jaya,Condominium,2.0,1.0,,830 sq. ft.,Partially Furnished,"RM 2,300",2025-12-06,3.8
+KV100518,Bangsar  ,Serviced Residence,4.0,3.0,2.0,950 sq. ft.,fully furnished,"RM 4,300",2025-03-25,3.5
+KV100046,Shah Alam,Condominium,2.0,1.0,1.0,"1,210 sq. ft.",Fully Furnished,"RM 3,600",2026-07-19,
+KV101025,puchong,Apartment,3.0,3.0,0.0,920 sq. ft.,Partially Furnished,"RM 1,400",2026-05-11,
+KV100389,  Puchong ,Terrace House,3.0,2.0,0.0,"1,370 sq. ft.",,"RM 2,150",2026-07-30,5.0
+KV100205,Cyberjaya,Condominium,3.0,3.0,,"1,140 sq. ft.",Partially Furnished,"RM 2,250",2025-05-14,3.0
+KV100812,Cyberjaya,Condominium,2.0,1.0,1.0,980 sq. ft.,Not Furnished,"RM 1,900",2025-10-22,4.1
+KV100660,Subang Jaya,Apartment,4.0,3.0,2.0,840 sq. ft.,Partially Furnished,"RM 1,700",28/04/2026,7.0
+KV100252,Setapak,Terrace House,5.0,4.0,,"1,300 sq. ft.",Fully Furnished,"RM 2,400",01/06/2025,4.7
+KV100657,  Petaling Jaya ,Condominium,3.0,2.0,2.0,760 sq. ft.,Full Furnished,"RM 2,150",02/04/2026,4.4
+KV100488,Cheras,Condominium,4.0,3.0,2.0,"1,440 sq. ft.",Partly Furnished,"RM 2,950",2026-03-14,
+KV100801,Subang Jaya,Terrace House,5.0,4.0,3.0,"1,590 sq. ft.",Partially Furnished,"RM 2,650",30/07/2026,3.2
+KV100791,  Puchong ,Serviced Residence,2.0,1.0,0.0,950 sq. ft.,Fully Furnished,"RM 2,300",2026-05-25,3.4
+KV100641,ampang,Condominium,3.0,,0.0,"1,210 sq. ft.",Partially Furnished,"RM 4,200",2026-06-26,4.3
+KV100590,Bangsar,Condominium,2.0,2.0,1.0,"1,390 sq. ft.",fully furnished,"RM 6,000",2026-06-06,4.3
+KV100289,CYBERJAYA,Condominium,0.0,4.0,2.0,"1,220 sq. ft.",Fully Furnished,"RM 2,850",2026-04-11,3.9
+KV100706,Subang Jaya,Condominium,3.0,,2.0,"1,510 sq. ft.",Fully Furnished,"RM 4,600",2025-06-21,4.3
+KV100959,Bangsar,Studio,1.0,1.0,0.0,460 sq. ft.,Fully Furnished,"RM 2,200",2026-01-02,3.4
+KV100839,Bangsar,Condominium,4.0,4.0,3.0,"1,160 sq. ft.",Fully Furnished,"RM 5,350",2026-07-30,4.0
+KV100679,KLCC,Serviced Residence,3.0,2.0,2.0,810 sq. ft.,Fully Furnished,"RM 4,900",2025-04-25,4.4
+KV100189,Subang Jaya,Apartment,4.0,3.0,2.0,830 sq. ft.,Fully Furnished,"RM 2,150",06/07/2025,4.4
+KV100790,Kajang,Terrace House,5.0,5.0,2.0,"2,110 sq. ft.",Fully Furnished,"RM 39,116",2025-11-10,3.5
+KV100204,Shah Alam,Condominium,3.0,2.0,,"1,260 sq. ft.",Not Furnished,"RM 2,500",13/06/2026,3.4
+KV100172,Shah Alam,Condominium,4.0,3.0,2.0,"1,390 sq. ft.",Partially Furnished,"RM 3,200",2026-04-23,3.8
+KV100060,bangsar,Condominium,4.0,3.0,1.0,910 sq. ft.,Fully Furnished,"RM 3,450",30/09/2025,4.3
+KV100795,Puchong,Serviced Residence,2.0,1.0,1.0,"1,050 sq. ft.",FULLY FURNISHED,"RM 2,550",16/12/2025,4.3
+KV100463,Cheras,Condominium,3.0,3.0,2.0,970 sq. ft.,Partially Furnished,"RM 1,650",2025-08-05,4.4
+KV101041,Kajang,Serviced Residence,3.0,3.0,2.0,860 sq. ft.,Fully Furnished,"RM 1,750",19/08/2026,3.7
+KV100146,Shah Alam,Terrace House,3.0,2.0,2.0,"1,690 sq. ft.",Partially Furnished,"RM 2,900",2026-07-25,4.6
+KV100569,Bangsar  ,Terrace House,4.0,,2.0,"1,500 sq. ft.",Fully Furnished,"RM 5,300",2025-06-21,3.7
+KV100594,  Puchong ,Condominium,3.0,3.0,2.0,"1,260 sq. ft.",Fully Furnished,"RM 3,150",28/03/2025,4.2
+KV100782,Shah Alam,Condominium,2.0,1.0,,"1,340 sq. ft.",Partially Furnished,"RM 2,700",2025-09-26,4.7
+KV100974,Cheras,Serviced Residence,3.0,3.0,,"1,250 sq. ft.",Not Furnished,"RM 2,750",2025-05-15,4.5
+KV100597,Petaling Jaya,Condominium,4.0,4.0,,"1,540 sq. ft.",Partially Furnished,"RM 3,700",08/04/2025,3.9
+KV101031,Ampang,Condominium,2.0,1.0,1.0,"1,100 sq. ft.",Unfurnished,"RM 2,950",2026-02-21,3.6
+KV101050,Cheras,Condominium,3.0,2.0,2.0,"1,010 sq. ft.",NOT FURNISHED,"RM 1,800",17/08/2025,3.6
+KV100540,Kajang,Condominium,4.0,3.0,2.0,"1,380 sq. ft.",Not Furnished,"RM 2,500",28/10/2025,5.0
+KV100571,Ampang,Serviced Residence,3.0,3.0,0.0,770 sq. ft.,Partially Furnished,"RM 2,500",2025-05-05,
+KV100688,Ampang,Serviced Residence,3.0,3.0,2.0,900 sq. ft.,Unfurnished,"RM 2,650",2025-11-25,4.6
+KV101182,Mont Kiara,Condominium,4.0,,,"1,170 sq. ft.",Fully Furnished,"RM 5,600",22/06/2026,4.7
+KV100305,Bangsar,Serviced Residence,4.0,,2.0,990 sq. ft.,NOT FURNISHED,"RM 3,450",2025-05-21,4.3
+KV100009,Puchong,Studio,0.0,1.0,-0.0,420 sq. ft.,Partially Furnished,RM 950,28/06/2026,
+KV100889,Mont Kiara,Serviced Residence,,,1.0,890 sq. ft.,Partially Furnished,"RM 4,550",2026-02-28,4.8
+KV100053,Mont Kiara,Condominium,2.0,1.0,1.0,"1,210 sq. ft.",Fully Furnished,"RM 6,800",2026-05-31,4.4
+KV100674,Shah Alam,Condominium,3.0,3.0,2.0,"1,180 sq. ft.",not furnished,"RM 2,500",2026-03-07,5.0
+KV101052,KLCC,Studio,1.0,1.0,0.0,350 sq. ft.,Fully Furnished,"RM 2,150",2025-10-22,3.9
+KV100420,Kajang,Apartment,3.0,3.0,2.0,960 sq. ft.,Partially Furnished,"RM 1,500",22/07/2026,4.0
+KV101064,Setapak,Apartment,4.0,3.0,2.0,580 sq. ft.,Fully Furnished,"RM 1,100",2025-11-21,3.9
+KV100361,Kajang,Condominium,4.0,3.0,1.0,670 sq. ft.,NOT FURNISHED,"RM 1,150",2026-04-18,3.7
+KV100040,petaling jaya,Apartment,3.0,3.0,2.0,860 sq. ft.,FULLY FURNISHED,"RM 2,050",2025-05-23,3.5
+KV100783,Mont Kiara,Condominium,3.0,3.0,0.0,"1,160 sq. ft.",Partially Furnished,"RM 5,150",18/06/2025,3.4
+KV100875,subang jaya,Serviced Residence,4.0,3.0,1.0,990 sq. ft.,Full Furnished,"RM 3,250",2026-04-18,4.9
+KV101198,Setapak,Condominium,4.0,,2.0,"1,250 sq. ft.",Fully Furnished,"RM 2,500",2026-03-23,5.0
+KV100562,Kajang  ,Condominium,2.0,1.0,0.0,"1,290 sq. ft.",Partly Furnished,"RM 2,000",2025-07-15,4.3
+KV100841,  Bangsar ,Condominium,2.0,1.0,,"1,290 sq. ft.",Fully Furnished,"RM 6,250",2025-08-13,4.2
+KV100083,  Setapak ,Terrace House,4.0,3.0,2.0,"1,840 sq. ft.",Fully Furnished,"RM 3,450",2026-07-03,3.8
+KV101077,Shah Alam,Apartment,3.0,2.0,2.0,"1,060 sq. ft.",Partially Furnished,"RM 2,250",01/03/2026,3.8
+KV100644,Shah Alam,Apartment,2.0,1.0,,630 sq. ft.,Partially Furnished,"RM 1,450",2026-04-29,4.4
+KV100943,  Bangsar ,Apartment,2.0,2.0,1.0,830 sq. ft.,,"RM 3,750",2025-06-27,3.1
+KV100887,Puchong  ,Apartment,4.0,3.0,2.0,"1,010 sq. ft.",Full Furnished,"RM 2,000",2025-04-03,4.3
+KV100098,Shah Alam,Condominium,3.0,2.0,,"1,280 sq. ft.",Partially Furnished,"RM 2,800",2025-11-15,2.9
+KV100564,Shah Alam,Condominium,4.0,3.0,3.0,"1,220 sq. ft.",Fully Furnished,"RM 3,300",17/02/2026,3.1
+KV101114,cyberjaya,Studio,1.0,1.0,-0.0,480 sq. ft.,fully furnished,"RM 1,500",2026-07-28,4.0
+KV100396,Cheras,Serviced Residence,2.0,1.0,2.0,890 sq. ft.,Partially Furnished,"RM 1,700",16/03/2025,3.5
+KV100888,CHERAS,Condominium,4.0,3.0,,"9,928 sq. ft.",Fully Furnished,"RM 3,150",20/07/2026,3.9
+KV100981,Bangsar,Terrace House,3.0,3.0,2.0,"1,730 sq. ft.",Fully Furnished,"RM 5,300",05/12/2025,4.6
+KV100663,Ampang,Apartment,3.0,,,790 sq. ft.,Fully Furnished,"RM 2,450",06/03/2026,4.1
+KV100829,Setapak,Serviced Residence,4.0,4.0,2.0,990 sq. ft.,Fully Furnished,"RM 2,400",2026-05-16,5.0
+KV100643,KLCC,Condominium,4.0,3.0,1.0,"1,040 sq. ft.",Partially Furnished,"RM 5,650",2026-05-07,4.4
+KV100462,Cheras,Serviced Residence,4.0,3.0,,"1,270 sq. ft.",Fully Furnished,"RM 3,100",20/06/2026,4.2
+KV100998,  Puchong ,Terrace House,3.0,3.0,2.0,"1,590 sq. ft.",Fully Furnished,"RM 2,700",2025-07-24,4.7
+KV100739,Cyberjaya,Apartment,3.0,3.0,2.0,830 sq. ft.,Partially Furnished,"RM 1,900",2025-12-09,2.9
+KV100640,Subang Jaya,Condominium,4.0,3.0,3.0,880 sq. ft.,Fully Furnished,"RM 2,250",2026-03-01,4.5
+KV100054,Subang Jaya  ,Apartment,3.0,3.0,,850 sq. ft.,Not Furnished,"RM 1,400",05/06/2025,4.3
+KV100982,KLCC,Studio,1.0,1.0,0.0,450 sq. ft.,FULLY FURNISHED,"RM 2,750",2026-02-16,4.1
+KV100665,Cyberjaya,Condominium,4.0,3.0,3.0,"1,030 sq. ft.",Fully Furnished,"RM 3,000",2025-06-23,4.3
+KV100493,Cyberjaya,Studio,1.0,1.0,2.0,490 sq. ft.,not furnished,"RM 1,150",2026-01-19,4.7
+KV100326,Petaling Jaya,Condominium,3.0,3.0,2.0,"1,040 sq. ft.",Partially Furnished,"RM 2,650",2025-11-19,4.1
+KV100151,Setapak,Terrace House,5.0,4.0,,"2,030 sq. ft.",Partly Furnished,"RM 2,900",2025-09-07,5.0
+KV101177,Ampang,Apartment,3.0,,2.0,780 sq. ft.,Full Furnished,"RM 2,400",2025-05-31,4.0
+KV100097,Setapak,Condominium,3.0,2.0,0.0,"1,260 sq. ft.",Full Furnished,"RM 2,500",2026-07-15,3.2
+KV100270,Kajang,Terrace House,4.0,3.0,3.0,"1,980 sq. ft.",Fully Furnished,"RM 2,650",29/11/2025,
+KV100199,Setapak,Condominium,4.0,4.0,1.0,720 sq. ft.,Partially Furnished,"RM 1,500",2025-03-31,3.5
+KV100598,bangsar,Serviced Residence,3.0,2.0,2.0,900 sq. ft.,Fully Furnished,"RM 3,850",2026-04-02,3.7
+KV100454,Cheras,Serviced Residence,4.0,3.0,2.0,"1,140 sq. ft.",Not Furnished,"RM 2,000",2025-10-11,3.7
+KV100558,Cheras,Serviced Residence,2.0,,1.0,870 sq. ft.,Fully Furnished,"RM 2,100",24/01/2026,
+KV100076,Setapak,Condominium,4.0,3.0,3.0,"1,110 sq. ft.",Partly Furnished,"RM 2,100",2025-03-30,4.7
+KV100012,subang jaya,Apartment,2.0,,1.0,930 sq. ft.,partially furnished,"RM 2,050",09/04/2026,4.2
+KV100280,Petaling Jaya,Serviced Residence,3.0,3.0,,870 sq. ft.,PARTIALLY FURNISHED,"RM 2,650",2026-05-24,3.6
+KV100773,Ampang,Serviced Residence,4.0,4.0,,840 sq. ft.,Full Furnished,"RM 2,850",2025-08-29,3.2
+KV100833,Bangsar,Studio,1.0,1.0,2.0,340 sq. ft.,fully furnished,"RM 1,500",2026-03-13,3.2
+KV100977,Subang Jaya,Condominium,2.0,1.0,1.0,"1,070 sq. ft.",Partially Furnished,"RM 2,100",2026-05-21,3.5
+KV100492,Ampang  ,Condominium,3.0,2.0,2.0,"1,060 sq. ft.",Full Furnished,"RM 4,050",01/04/2025,3.6
+KV100013,Bangsar,Studio,1.0,1.0,0.0,470 sq. ft.,Not Furnished,"RM 1,900",2025-12-09,4.6
+KV100631,Subang Jaya,Condominium,4.0,3.0,,"1,200 sq. ft.",PARTIALLY FURNISHED,"RM 2,800",2025-12-01,4.4
+KV100563,Puchong,Condominium,99.0,3.0,2.0,900 sq. ft.,Partially Furnished,"RM 2,050",2025-05-22,4.5
+KV100179,setapak,Condominium,3.0,3.0,2.0,"1,110 sq. ft.",Not Furnished,"RM 2,250",2025-06-22,3.8
+KV100933,  Setapak ,Apartment,2.0,1.0,1.0,"1,000 sq. ft.",Fully Furnished,RM 0,17/01/2026,4.4
+KV100020,Bangsar,Studio,1.0,1.0,-0.0,340 sq. ft.,Not Furnished,"RM 1,000",2025-12-05,3.2
+KV100720,puchong,Condominium,3.0,3.0,2.0,"1,010 sq. ft.",Not Furnished,"RM 1,800",09/04/2026,4.1
+KV100777,CYBERJAYA,Apartment,2.0,1.0,2.0,760 sq. ft.,Fully Furnished,"RM 75,250",21/04/2025,4.1
+KV100385,Setapak,Apartment,,3.0,2.0,960 sq. ft.,Partially Furnished,"RM 1,700",2025-12-23,4.4
+KV100901,Petaling Jaya,Serviced Residence,3.0,2.0,2.0,800 sq. ft.,PARTIALLY FURNISHED,"RM 2,150",2026-03-03,4.3
+KV100744,Cheras,Condominium,2.0,1.0,2.0,970 sq. ft.,Fully Furnished,"RM 2,400",13/06/2025,4.1
+KV100789,KLCC,Apartment,3.0,2.0,,900 sq. ft.,Fully Furnished,"RM 4,100",28/05/2025,4.5
+KV100504,Bangsar,Condominium,2.0,1.0,1.0,"1,310 sq. ft.",,"RM 5,400",08/05/2026,4.2
+KV100374,KLCC,Apartment,4.0,3.0,,"1,050 sq. ft.",Fully Furnished,"RM 5,200",2026-03-28,3.9
+KV100546,Ampang,Serviced Residence,2.0,,0.0,"1,010 sq. ft.",Not Furnished,"RM 2,900",10/06/2025,4.3
+KV101026,subang jaya,Condominium,3.0,3.0,,"1,070 sq. ft.",Not Furnished,"RM 2,400",23/03/2026,
+KV100478,Mont Kiara,Condominium,3.0,2.0,2.0,"1,210 sq. ft.",partially furnished,"RM 4,200",2025-10-07,3.9
+KV100017,SHAH ALAM,Condominium,2.0,1.0,,610 sq. ft.,Partially Furnished,"RM 1,300",2026-08-07,4.2
+KV100585,Puchong,Condominium,2.0,2.0,,"1,330 sq. ft.",Fully Furnished,"RM 2,950",12/01/2026,3.8
+KV100285,Mont Kiara,Condominium,3.0,3.0,0.0,"1,240 sq. ft.",Partly Furnished,"RM 4,600",20/01/2026,4.0
+KV100757,Petaling Jaya,Terrace House,4.0,3.0,2.0,"1,660 sq. ft.",Fully Furnished,"RM 4,050",2025-11-03,5.0
+KV100898,Kajang,Apartment,4.0,3.0,3.0,"1,010 sq. ft.",Partially Furnished,"RM 1,650",2026-06-07,3.7
+KV100306,Petaling Jaya,Apartment,3.0,3.0,0.0,990 sq. ft.,Partially Furnished,"RM 2,400",10/07/2025,4.5
+KV100115,KLCC,Condominium,2.0,1.0,2.0,"1,320 sq. ft.",Partially Furnished,"RM 6,000",2025-11-06,3.5
+KV100948,Bangsar,Terrace House,99.0,3.0,1.0,"1,360 sq. ft.",fully furnished,"RM 5,100",18/08/2025,4.7
+KV100284,Cheras,Apartment,3.0,3.0,0.0,"1,060 sq. ft.",Partly Furnished,"RM 2,200",2025-07-30,4.0
+KV100513,Kajang,Condominium,2.0,2.0,2.0,970 sq. ft.,Fully Furnished,"RM 1,900",30/05/2026,3.7
+KV100473,Cyberjaya,Terrace House,4.0,3.0,2.0,"1,950 sq. ft.",Partially Furnished,"-RM 1,200",2026-02-03,5.0
+KV101012,Cheras,Serviced Residence,2.0,2.0,1.0,"1,230 sq. ft.",Partially Furnished,"RM 2,850",2025-07-18,4.3
+KV100704,Shah Alam,Terrace House,3.0,2.0,2.0,"1,980 sq. ft.",partially furnished,"RM 3,350",2026-04-02,3.3
+KV100140,Petaling Jaya,Serviced Residence,2.0,1.0,0.0,,,"RM 3,300",2026-07-22,4.8
+KV100906,KLCC,Apartment,3.0,2.0,2.0,"1,130 sq. ft.",Fully Furnished,"RM 4,950",28/05/2025,4.8
+KV101033,Petaling Jaya,Apartment,4.0,3.0,1.0,750 sq. ft.,Fully Furnished,"RM 2,000",2026-06-06,4.0
+KV100799,Bangsar  ,Condominium,2.0,1.0,0.0,640 sq. ft.,Not Furnished,"RM 2,300",2026-03-19,3.8
+KV100568,Subang Jaya,Condominium,3.0,,2.0,"1,250 sq. ft.",Fully Furnished,"RM 3,800",2026-07-19,2.7
+KV101134,Petaling Jaya,Apartment,2.0,1.0,1.0,,Fully Furnished,"RM 1,850",09/01/2026,4.8
+KV100703,Puchong,Condominium,4.0,4.0,2.0,"1,150 sq. ft.",Partially Furnished,"RM 2,700",2026-05-09,3.9
+KV100414,cyberjaya,Serviced Residence,3.0,2.0,0.0,970 sq. ft.,Partly Furnished,"RM 2,000",23/03/2025,4.1
+KV101065,  Subang Jaya ,Terrace House,4.0,4.0,3.0,"2,400 sq. ft.",Fully Furnished,"RM 4,500",24/09/2025,4.1
+KV100164,Ampang,Terrace House,3.0,2.0,2.0,"1,900 sq. ft.",Partially Furnished,"RM 4,300",2025-08-24,3.5
+KV100379,  Cheras ,Apartment,3.0,2.0,,"1,020 sq. ft.",Partly Furnished,"RM 2,050",2025-03-13,4.6
+KV100108,Cheras,Condominium,3.0,2.0,2.0,"1,190 sq. ft.",,"RM 3,200",10/08/2025,4.6
+KV100685,Shah Alam,Serviced Residence,2.0,1.0,1.0,890 sq. ft.,Not Furnished,"RM 2,000",2026-03-11,4.5
+KV100788,Puchong,Terrace House,3.0,2.0,2.0,"1,370 sq. ft.",Fully Furnished,"RM 2,450",2026-07-02,3.4
+KV101020,Petaling Jaya,Serviced Residence,2.0,1.0,0.0,"1,320 sq. ft.",Partially Furnished,"RM 3,350",19/06/2026,4.7
+KV100099,Ampang,Apartment,4.0,3.0,,"1,050 sq. ft.",Partially Furnished,"RM 2,200",19/09/2025,3.8
+KV100534,Setapak,Apartment,3.0,,0.0,670 sq. ft.,Fully Furnished,"RM 1,200",15/06/2026,3.9
+KV100264,Bangsar,Serviced Residence,4.0,3.0,2.0,"1,040 sq. ft.",Fully Furnished,"RM 5,100",17/02/2026,3.9
+KV100509,Cheras,Terrace House,5.0,5.0,3.0,"1,320 sq. ft.",Fully Furnished,"RM 2,550",2026-01-18,3.4
+KV100262,Ampang  ,Studio,1.0,1.0,2.0,520 sq. ft.,Fully Furnished,"RM 1,700",2025-03-24,3.1
+KV100253,Mont Kiara,Terrace House,5.0,4.0,3.0,"1,780 sq. ft.",Fully Furnished,"RM 6,850",2026-07-28,4.8
+KV100220,setapak,Terrace House,3.0,2.0,0.0,,Partially Furnished,"RM 2,450",2025-04-25,3.9
+KV100663,Ampang,Apartment,3.0,,,790 sq. ft.,Fully Furnished,"RM 2,450",06/03/2026,4.1
+KV101118,Shah Alam  ,Condominium,,2.0,2.0,"1,150 sq. ft.",Partially Furnished,"RM 2,500",2025-03-18,3.4
+KV100216,Setapak,Condominium,3.0,3.0,,950 sq. ft.,Not Furnished,"RM 1,350",11/05/2025,4.8
+KV101057,Mont Kiara,Condominium,2.0,2.0,,"1,500 sq. ft.",Partially Furnished,"RM 6,300",2026-08-24,
+KV101101,Subang Jaya,Terrace House,3.0,2.0,,"1,910 sq. ft.",,"RM 3,650",25/04/2025,3.8
+KV100666,Subang Jaya,Serviced Residence,2.0,2.0,0.0,890 sq. ft.,Fully Furnished,"RM 2,850",19/06/2026,
+KV100308,Kajang,Studio,1.0,1.0,-0.0,510 sq. ft.,Fully Furnished,"RM 1,100",2026-08-15,3.8
+KV100926,Subang Jaya,Serviced Residence,4.0,3.0,2.0,"1,050 sq. ft.",Partially Furnished,"RM 2,650",2026-03-23,
+KV100523,Cyberjaya,Serviced Residence,3.0,2.0,2.0,920 sq. ft.,Partially Furnished,"RM 2,000",2026-05-13,3.6
+KV100023,Ampang,Terrace House,3.0,2.0,2.0,"1,570 sq. ft.",Fully Furnished,"RM 4,250",2025-09-24,3.1
+KV100952,CYBERJAYA,Condominium,4.0,4.0,,"1,130 sq. ft.",Partially Furnished,"RM 2,550",2026-03-10,3.6
+KV101024,Puchong,Apartment,4.0,3.0,2.0,770 sq. ft.,Fully Furnished,"RM 1,650",2025-07-02,4.6
+KV100278,Kajang,Apartment,4.0,3.0,1.0,740 sq. ft.,Fully Furnished,"RM 72,304",2025-10-31,3.7
+KV100770,Setapak,Condominium,4.0,3.0,2.0,"1,040 sq. ft.",Not Furnished,"RM 1,750",2026-05-08,
+KV100587,shah alam,Apartment,4.0,,3.0,990 sq. ft.,Partially Furnished,"RM 2,350",2026-08-14,5.0
+KV100186,Kajang,Serviced Residence,4.0,4.0,2.0,940 sq. ft.,Fully Furnished,"RM 1,800",16/01/2026,3.8
+KV100541,  Subang Jaya ,Apartment,4.0,3.0,3.0,970 sq. ft.,Not Furnished,"RM 1,900",2026-03-29,4.2
+KV101013,Cheras,Serviced Residence,3.0,2.0,,"1,040 sq. ft.",Fully Furnished,"RM 2,450",2026-05-21,4.2
+KV100995,Petaling Jaya,Serviced Residence,3.0,2.0,2.0,950 sq. ft.,Fully Furnished,"RM 3,250",2026-05-05,4.3
+KV101162,Setapak,Condominium,2.0,1.0,,"1,080 sq. ft.",Not Furnished,"RM 1,900",2025-06-30,3.3
+KV100123,Puchong,Serviced Residence,4.0,3.0,1.0,880 sq. ft.,Not Furnished,"RM 1,850",06/12/2025,3.4
+KV100698,Petaling Jaya,Studio,1.0,1.0,2.0,430 sq. ft.,,"RM 1,250",2025-11-28,3.2
+KV100956,Bangsar,Serviced Residence,4.0,4.0,2.0,,Fully Furnished,"RM 4,900",2026-07-13,3.6
+KV101062,Petaling Jaya,Condominium,3.0,3.0,2.0,870 sq. ft.,fully furnished,"RM 2,900",27/06/2025,3.8
+KV100334,Subang Jaya,Condominium,4.0,4.0,2.0,"1,080 sq. ft.",Fully Furnished,"RM 2,750",2025-12-04,
+KV100595,Bangsar,Condominium,2.0,,1.0,"1,380 sq. ft.",FULLY FURNISHED,"RM 7,150",2025-07-16,3.4
+KV100619,Puchong,Terrace House,4.0,3.0,,"1,340 sq. ft.",Not Furnished,"RM 1,600",2026-02-15,3.4
+KV101017,Cyberjaya,Condominium,2.0,1.0,1.0,"1,380 sq. ft.",Partially Furnished,"RM 2,950",19/08/2025,3.7
+KV100934,Shah Alam,Condominium,3.0,,2.0,"1,370 sq. ft.",Fully Furnished,"RM 3,450",2025-04-12,4.2
+KV100231,Kajang  ,Condominium,4.0,3.0,3.0,940 sq. ft.,Partly Furnished,"RM 1,700",14/01/2026,3.3
+KV100147,Setapak,Terrace House,5.0,5.0,2.0,"1,520 sq. ft.",Partially Furnished,"RM 2,250",29/03/2025,
+KV100953,Ampang,Terrace House,3.0,2.0,2.0,"1,650 sq. ft.",Fully Furnished,"RM 3,600",2025-09-09,4.3
+KV100167,Subang Jaya,Condominium,3.0,2.0,2.0,"1,330 sq. ft.",Fully Furnished,"RM 3,550",2026-05-23,3.9
+KV100224,KLCC,Serviced Residence,2.0,1.0,,"1,060 sq. ft.",Partially Furnished,"RM 5,450",2025-05-08,3.6
+KV101127,Cheras,Condominium,4.0,4.0,3.0,"1,330 sq. ft.",,"RM 3,400",2025-05-25,3.3
+KV100070,Kajang,Apartment,3.0,3.0,,830 sq. ft.,Not Furnished,"RM 1,150",2026-03-18,4.3
+KV100408,CHERAS,Terrace House,4.0,3.0,,"1,380 sq. ft.",Partially Furnished,"RM 2,350",30/06/2026,4.6
+KV100633,KLCC,Serviced Residence,3.0,2.0,2.0,"1,000 sq. ft.",Fully Furnished,"RM 5,250",30/12/2025,3.9
+KV100171,SUBANG JAYA,Condominium,3.0,2.0,2.0,"1,450 sq. ft.",fully furnished,"RM 3,850",21/10/2025,4.4
+KV100507,Bangsar,Serviced Residence,2.0,1.0,2.0,"1,050 sq. ft.",Fully Furnished,"RM 5,400",26/11/2025,4.4
+KV100168,Cheras,Condominium,3.0,3.0,2.0,"1,080 sq. ft.",Full Furnished,"RM 2,500",23/08/2026,4.4
+KV100237,Bangsar,Serviced Residence,2.0,1.0,2.0,"1,050 sq. ft.",FULLY FURNISHED,"RM 5,400",28/04/2025,3.5
+KV100336,Bangsar  ,Studio,1.0,1.0,-0.0,430 sq. ft.,Full Furnished,"RM 2,200",04/06/2025,3.8
+KV100734,PETALING JAYA,Serviced Residence,2.0,,1.0,760 sq. ft.,Partially Furnished,"RM 2,500",2025-06-14,3.5
+KV100648,Cyberjaya,Serviced Residence,3.0,2.0,2.0,670 sq. ft.,Unfurnished,"RM 1,450",09/04/2026,4.9
+KV100125,Mont Kiara,Serviced Residence,2.0,2.0,0.0,870 sq. ft.,FULLY FURNISHED,"RM 4,800",2026-01-20,4.2
+KV100471,AMPANG,Apartment,4.0,3.0,1.0,770 sq. ft.,Partially Furnished,"RM 1,800",22/08/2025,4.4
+KV100474,Petaling Jaya  ,Condominium,2.0,1.0,2.0,"1,290 sq. ft.",Fully Furnished,"RM 3,900",13/06/2025,4.3
+KV101091,subang jaya,Condominium,2.0,,1.0,"1,560 sq. ft.",Partially Furnished,"RM 3,800",2025-03-14,4.5
+KV100771,Ampang,Apartment,4.0,3.0,2.0,930 sq. ft.,Partially Furnished,RM 0,01/02/2026,4.5
+KV100857,CYBERJAYA,Serviced Residence,2.0,1.0,1.0,,Fully Furnished,"RM 2,400",2026-03-11,4.2
+KV100042,PETALING JAYA,Serviced Residence,3.0,2.0,,830 sq. ft.,Not Furnished,"RM 2,150",29/05/2026,3.2
+KV100796,Ampang,Apartment,3.0,2.0,0.0,910 sq. ft.,Fully Furnished,"RM 2,700",2025-07-14,7.0
+KV101010,CYBERJAYA,Apartment,0.0,1.0,0.0,940 sq. ft.,Fully Furnished,"RM 2,550",2026-07-31,4.2
+KV100132,Petaling Jaya,Terrace House,4.0,3.0,2.0,"1,410 sq. ft.",Partially Furnished,"RM 3,050",14/04/2026,3.9
+KV100350,KLCC,Serviced Residence,2.0,1.0,2.0,760 sq. ft.,Not Furnished,"RM 3,800",2025-12-09,3.3
+KV100038,Ampang,Condominium,3.0,2.0,2.0,910 sq. ft.,Partially Furnished,"RM 2,500",2026-02-17,3.6
+KV101102,Setapak,Apartment,3.0,2.0,2.0,930 sq. ft.,Fully Furnished,"RM 1,950",2025-11-23,4.1
+KV100714,Bangsar,Condominium,2.0,1.0,1.0,990 sq. ft.,PARTIALLY FURNISHED,"RM 4,400",08/05/2025,4.3
+KV100737,Puchong,Serviced Residence,2.0,2.0,2.0,700 sq. ft.,Fully Furnished,"RM 1,500",2025-04-24,4.0
+KV101085,Bangsar  ,Studio,1.0,1.0,0.0,350 sq. ft.,Not Furnished,"RM 1,250",2025-10-13,4.2
+KV100166,Kajang,Apartment,4.0,,2.0,"1,130 sq. ft.",Unfurnished,"RM 1,550",2025-09-21,3.8
+KV101051,  Petaling Jaya ,Condominium,4.0,3.0,1.0,"1,120 sq. ft.",Fully Furnished,"RM 3,750",2026-06-11,4.2
+KV100071,cyberjaya,Apartment,3.0,2.0,2.0,920 sq. ft.,Not Furnished,"RM 1,650",2026-04-06,3.6
+KV100548,  KLCC ,Apartment,2.0,1.0,1.0,870 sq. ft.,Full Furnished,"RM 4,350",2025-12-07,5.0
+KV100729,bangsar,Condominium,4.0,3.0,2.0,"1,330 sq. ft.",FULLY FURNISHED,"RM 5,500",27/04/2025,4.2
+KV100969,mont kiara,Terrace House,5.0,4.0,2.0,"2,040 sq. ft.",Unfurnished,"RM 5,400",29/06/2025,3.7
+KV101163,Puchong,Serviced Residence,3.0,3.0,2.0,910 sq. ft.,Partially Furnished,"RM 1,950",2025-09-14,4.0
+KV100937,SETAPAK,Condominium,2.0,2.0,1.0,"1,070 sq. ft.",Not Furnished,"RM 1,850",2025-11-30,
+KV100863,KLCC,Condominium,2.0,1.0,1.0,"1,150 sq. ft.",Partially Furnished,"RM 5,000",2025-11-28,3.8
+KV100004,Mont Kiara,Serviced Residence,4.0,3.0,3.0,,fully furnished,"RM 6,000",2026-04-26,4.2
+KV100621,Kajang,Serviced Residence,2.0,,1.0,940 sq. ft.,Not Furnished,"RM 1,550",14/06/2025,4.1
+KV101072,subang jaya,Serviced Residence,4.0,3.0,2.0,,FULLY FURNISHED,"RM 3,750",2025-10-27,4.1
+KV100451,Cyberjaya,Condominium,2.0,2.0,1.0,"9,319 sq. ft.",Partially Furnished,"RM 2,450",2026-06-01,4.6
+KV100399,Ampang,Studio,1.0,1.0,,560 sq. ft.,Full Furnished,"RM 2,000",13/12/2025,4.2
+KV100769,Puchong,Apartment,4.0,4.0,3.0,830 sq. ft.,Partially Furnished,"RM 1,750",2026-05-13,4.7
+KV100318,Shah Alam,Studio,1.0,1.0,,410 sq. ft.,Fully Furnished,"RM 1,150",20/05/2026,4.0
+KV100967,AMPANG,Studio,1.0,1.0,-0.0,340 sq. ft.,fully furnished,"RM 1,450",2025-05-28,
+KV100430,Bangsar,Serviced Residence,4.0,3.0,,910 sq. ft.,Fully Furnished,"RM 4,700",2025-04-11,4.1
+KV100820,Puchong,Condominium,3.0,2.0,2.0,"1,350 sq. ft.",,"RM 2,650",2026-01-02,4.2
+KV101089,Cyberjaya,Serviced Residence,4.0,4.0,3.0,730 sq. ft.,Fully Furnished,"RM 1,600",11/03/2026,4.1
+KV100094,Petaling Jaya,Condominium,2.0,1.0,2.0,"1,310 sq. ft.",Not Furnished,"RM 2,850",2025-07-05,4.0
+KV100095,KAJANG,Apartment,2.0,2.0,0.0,870 sq. ft.,Unfurnished,"RM 1,300",2025-06-06,3.4
+KV100351,KLCC  ,Condominium,2.0,1.0,2.0,"1,270 sq. ft.",FULLY FURNISHED,"RM 7,150",12/11/2025,4.2
+KV100325,KLCC,Condominium,3.0,2.0,2.0,"1,010 sq. ft.",Fully Furnished,"RM 5,350",2025-09-29,3.7
+KV100655,Shah Alam,Apartment,2.0,1.0,,820 sq. ft.,partially furnished,"RM 1,850",2025-08-01,4.6
+KV101149,  Petaling Jaya ,Condominium,4.0,3.0,,"1,180 sq. ft.",Fully Furnished,"RM 3,700",02/02/2026,4.5
+KV100767,Cheras,Condominium,3.0,3.0,,"1,220 sq. ft.",Fully Furnished,"RM 3,150",2025-10-24,
+KV100058,  Setapak ,Serviced Residence,2.0,1.0,2.0,"1,310 sq. ft.",Partially Furnished,"RM 2,650",2026-02-22,4.5
+KV100445,Cheras,Apartment,2.0,2.0,,750 sq. ft.,,"RM 1,450",2026-08-22,3.2
+KV100725,Cyberjaya  ,Condominium,3.0,3.0,0.0,"1,280 sq. ft.",Partially Furnished,"RM 2,750",2026-08-21,4.8
+KV100610,Kajang,Serviced Residence,3.0,2.0,2.0,480 sq. ft.,FULLY FURNISHED,"RM 1,050",2025-05-03,3.9
+KV100024,KLCC,Apartment,2.0,2.0,,840 sq. ft.,PARTIALLY FURNISHED,"RM 3,350",11/12/2025,4.6
+KV100754,  Kajang ,Serviced Residence,4.0,4.0,3.0,"1,030 sq. ft.",Fully Furnished,"RM 2,400",2026-07-20,5.0
+KV100372,Ampang,Condominium,3.0,2.0,,"1,210 sq. ft.",Fully Furnished,"RM 3,800",21/09/2025,4.1
+KV100244,SHAH ALAM,Terrace House,3.0,3.0,0.0,"1,730 sq. ft.",Not Furnished,"RM 2,400",2026-02-06,3.8
+KV100025,Cyberjaya,Apartment,2.0,1.0,1.0,890 sq. ft.,Fully Furnished,"RM 1,900",2026-04-17,3.3
+KV100222,Subang Jaya,Apartment,2.0,1.0,,740 sq. ft.,Fully Furnished,"RM 1,800",24/04/2025,3.1
+KV100731,  Kajang ,Condominium,4.0,3.0,3.0,950 sq. ft.,Not Furnished,"RM 1,450",2025-06-08,3.5
+KV100105,Petaling Jaya  ,Condominium,3.0,2.0,2.0,"1,400 sq. ft.",partially furnished,"RM 3,300",19/07/2026,4.4
+KV101098,Subang Jaya,Serviced Residence,2.0,1.0,1.0,"1,100 sq. ft.",Not Furnished,"RM 3,100",30/06/2025,
+KV100130,Cyberjaya,Condominium,,2.0,,"1,060 sq. ft.",fully furnished,"RM 2,800",2025-11-29,4.5
+KV100153,Ampang,Serviced Residence,2.0,2.0,2.0,900 sq. ft.,Partially Furnished,"RM 3,150",17/05/2025,
+KV100882,Puchong,Serviced Residence,4.0,4.0,3.0,"1,020 sq. ft.",Unfurnished,"RM 1,750",25/04/2025,
+KV100993,PUCHONG,Studio,1.0,1.0,0.0,300 sq. ft.,Partially Furnished,RM 550,22/08/2025,3.9
+KV100544,PETALING JAYA,Condominium,2.0,1.0,2.0,"16,504 sq. ft.",Not Furnished,"RM 2,050",2025-09-01,3.6
+KV101080,KLCC,Apartment,2.0,1.0,1.0,960 sq. ft.,Not Furnished,"RM 4,100",26/06/2026,
+KV100075,PETALING JAYA,Condominium,2.0,1.0,1.0,890 sq. ft.,Partly Furnished,"RM 2,300",05/01/2026,
+KV100962,Mont Kiara,Condominium,4.0,,3.0,"1,170 sq. ft.",Partially Furnished,"RM 4,600",2026-07-30,3.6
+KV101082,  Puchong ,Condominium,2.0,1.0,1.0,"1,710 sq. ft.",Not Furnished,"RM 2,750",2026-01-31,4.1
+KV100712,Petaling Jaya  ,Studio,1.0,1.0,0.0,460 sq. ft.,not furnished,"RM 1,350",2026-03-29,3.3
+KV100407,Petaling Jaya,Condominium,2.0,2.0,1.0,840 sq. ft.,Partially Furnished,"RM 2,150",2026-02-13,4.4
+KV101005,Setapak,Condominium,3.0,3.0,2.0,"1,340 sq. ft.",Partially Furnished,"RM 2,800",15/05/2026,4.2
+KV100446,setapak,Serviced Residence,2.0,2.0,0.0,"1,240 sq. ft.",Fully Furnished,"RM 3,550",2025-04-28,3.8
+KV101151,Cheras,Condominium,3.0,2.0,2.0,"1,290 sq. ft.",Not Furnished,"RM 1,950",2025-05-20,3.5
+KV100199,Setapak,Condominium,4.0,4.0,1.0,720 sq. ft.,Partially Furnished,"RM 1,500",2025-03-31,3.5
+KV100879,Kajang,Apartment,4.0,4.0,1.0,920 sq. ft.,Partially Furnished,"RM 1,300",18/10/2025,4.1
+KV100134,KLCC,Serviced Residence,3.0,,,"1,010 sq. ft.",FULLY FURNISHED,"RM 6,100",2025-07-20,3.7
+KV100377,KLCC,Apartment,4.0,3.0,,840 sq. ft.,Fully Furnished,"RM 3,900",2026-01-16,3.8
+KV100259,Ampang  ,Apartment,2.0,1.0,1.0,910 sq. ft.,Partially Furnished,"RM 2,300",2026-06-08,4.5
+KV100617,Cheras,Serviced Residence,,2.0,0.0,900 sq. ft.,Fully Furnished,"RM 2,450",2025-06-26,4.5
+KV100003,Subang Jaya,Serviced Residence,3.0,2.0,2.0,900 sq. ft.,Partially Furnished,"RM 2,550",16/05/2026,4.7
+KV100811,Bangsar,Condominium,3.0,2.0,,"1,140 sq. ft.",Fully Furnished,"RM 4,750",2025-06-16,4.3
+KV100210,Puchong,Apartment,4.0,3.0,2.0,970 sq. ft.,Full Furnished,"RM 2,250",01/04/2026,4.5
+KV100196,Petaling Jaya,Condominium,3.0,2.0,2.0,880 sq. ft.,,"RM 2,850",2026-08-19,5.0
+KV100992,Mont Kiara,Condominium,4.0,4.0,,"1,310 sq. ft.",Not Furnished,"RM 4,350",2025-09-05,4.4
+KV100500,Cyberjaya,Condominium,2.0,1.0,1.0,"1,390 sq. ft.",Full Furnished,"RM 3,850",2026-05-29,4.7
+KV100603,Setapak,Terrace House,3.0,2.0,0.0,980 sq. ft.,,"RM 1,400",14/05/2026,3.7
+KV100026,Puchong,Terrace House,3.0,2.0,,"1,660 sq. ft.",Fully Furnished,"RM 2,550",2026-04-20,
+KV100324,Bangsar,Serviced Residence,2.0,,2.0,750 sq. ft.,PARTIALLY FURNISHED,"RM 2,650",22/06/2026,4.0
+KV101168,Ampang,Serviced Residence,2.0,,,890 sq. ft.,Partially Furnished,"RM 3,000",2025-08-14,4.0
+KV100517,KLCC,Condominium,4.0,3.0,,"1,100 sq. ft.",,"RM 5,300",2025-11-15,4.1
+KV101143,Bangsar,Apartment,4.0,3.0,,"1,030 sq. ft.",Fully Furnished,"RM 4,100",29/10/2025,3.4
+KV100355,Ampang,Condominium,2.0,1.0,1.0,"1,100 sq. ft.",Fully Furnished,"RM 3,400",2026-04-22,3.0
+KV100061,Shah Alam,Condominium,4.0,3.0,,"1,360 sq. ft.",Partially Furnished,"RM 2,900",2025-06-21,4.2
+KV100702,Setapak,Serviced Residence,3.0,,,840 sq. ft.,Fully Furnished,"RM 2,000",28/08/2025,4.4
+KV101185,petaling jaya,Condominium,4.0,3.0,1.0,"1,250 sq. ft.",FULLY FURNISHED,"RM 3,950",24/11/2025,3.0
+KV101116,Shah Alam,Studio,1.0,1.0,-0.0,430 sq. ft.,Fully Furnished,"RM 1,350",04/10/2025,4.5
+KV100339,cheras,Serviced Residence,3.0,3.0,2.0,560 sq. ft.,Fully Furnished,"RM 1,300",18/02/2026,4.7
+KV100736,Subang Jaya,Serviced Residence,2.0,1.0,0.0,670 sq. ft.,Partially Furnished,"RM 1,700",2025-04-03,3.7
+KV100735,Kajang,Studio,1.0,1.0,0.0,380 sq. ft.,Fully Furnished,RM 850,26/04/2026,3.5
+KV100651,KLCC,Apartment,3.0,2.0,0.0,990 sq. ft.,Fully Furnished,"RM 5,400",16/08/2026,
+KV101183,Ampang,Condominium,4.0,4.0,2.0,"1,020 sq. ft.",Partially Furnished,"RM 2,800",2026-05-09,4.9
+KV101095,Shah Alam,Terrace House,3.0,2.0,2.0,"1,950 sq. ft.",Partially Furnished,"RM 3,450",08/09/2025,5.0
+KV100526,Petaling Jaya,Serviced Residence,4.0,4.0,2.0,980 sq. ft.,Partially Furnished,"RM 2,600",2025-11-25,5.0
+KV100483,Bangsar,Serviced Residence,3.0,3.0,2.0,870 sq. ft.,Not Furnished,"RM 3,150",13/01/2026,3.5
+KV100876,Cheras,Terrace House,4.0,3.0,2.0,"2,110 sq. ft.",,"RM 3,450",28/03/2026,2.9
+KV100905,puchong,Condominium,4.0,3.0,2.0,,Not Furnished,"RM 1,900",2025-03-18,4.5
+KV100008,Setapak,Condominium,3.0,2.0,0.0,940 sq. ft.,Not Furnished,"RM 1,300",2026-06-18,7.0
+KV100750,Puchong,Serviced Residence,2.0,2.0,,880 sq. ft.,Fully Furnished,"RM 2,150",21/04/2025,4.4
+KV100620,SETAPAK,Terrace House,3.0,2.0,2.0,"1,770 sq. ft.",,"RM 2,200",2026-08-08,5.0
+KV101055,KLCC,Serviced Residence,3.0,2.0,2.0,950 sq. ft.,Partially Furnished,"RM 4,350",2026-06-19,
+KV100300,Setapak,Condominium,2.0,,1.0,"1,090 sq. ft.",Fully Furnished,"RM 2,550",18/11/2025,4.4
+KV100671,Kajang,Terrace House,3.0,2.0,2.0,"1,340 sq. ft.",Fully Furnished,"RM 2,000",2026-04-05,3.3
+KV100835,KLCC,Condominium,4.0,3.0,2.0,"1,090 sq. ft.",Fully Furnished,"RM 62,060",2026-03-12,3.6
+KV100127,Bangsar  ,Apartment,3.0,,0.0,950 sq. ft.,Partially Furnished,"RM 3,150",2026-03-28,3.7
+KV100074,SUBANG JAYA,Terrace House,3.0,3.0,2.0,"1,750 sq. ft.",Fully Furnished,"RM 3,600",2025-04-16,3.2
+KV101105,Cyberjaya,Condominium,2.0,1.0,2.0,"1,260 sq. ft.",Not Furnished,"RM 2,350",2026-04-17,4.0
+KV100883,Kajang  ,Serviced Residence,2.0,1.0,0.0,910 sq. ft.,Partially Furnished,"RM 1,850",2026-05-13,4.2
+KV100057,Ampang,Serviced Residence,4.0,4.0,,"1,060 sq. ft.",Partially Furnished,"RM 3,500",31/08/2026,3.6
+KV101039,Bangsar,Serviced Residence,99.0,2.0,0.0,"1,000 sq. ft.",Partially Furnished,"RM 4,250",2025-10-18,4.1
+KV100506,Subang Jaya,Condominium,3.0,,2.0,"1,260 sq. ft.",Fully Furnished,"RM 3,650",2025-12-28,6.5
+KV100843,Puchong,Condominium,4.0,4.0,2.0,"1,060 sq. ft.",Partly Furnished,"RM 2,300",07/08/2026,3.6
+KV100297,Kajang,Condominium,3.0,3.0,2.0,"1,580 sq. ft.",Partially Furnished,"RM 2,700",08/07/2026,5.0
+KV100530,setapak,Condominium,4.0,3.0,1.0,"1,030 sq. ft.",Partly Furnished,"RM 2,050",2025-06-21,4.3
+KV100217,Setapak,Terrace House,4.0,3.0,3.0,"1,910 sq. ft.",Not Furnished,"RM 2,050",2026-05-23,
+KV100674,Shah Alam,Condominium,3.0,3.0,2.0,"1,180 sq. ft.",not furnished,"RM 2,500",2026-03-07,5.0
+KV100922,Cheras,Terrace House,4.0,3.0,3.0,"1,260 sq. ft.",Partially Furnished,"RM 2,100",2026-05-30,4.2
+KV100344,KLCC,Terrace House,5.0,5.0,2.0,"1,670 sq. ft.",Partially Furnished,"RM 6,900",2026-04-12,
+KV100484,Kajang,Studio,1.0,,,470 sq. ft.,Fully Furnished,"RM 1,100",2025-04-05,3.5
+KV100761,  Petaling Jaya ,Studio,1.0,1.0,-0.0,390 sq. ft.,Fully Furnished,"RM 1,250",2025-12-08,3.4
+KV100697,KLCC,Terrace House,4.0,3.0,1.0,"1,860 sq. ft.",Fully Furnished,"RM 8,100",2026-08-28,3.8
+KV100556,Bangsar,Serviced Residence,2.0,1.0,0.0,"1,050 sq. ft.",Fully Furnished,"RM 4,950",2026-03-12,3.8
+KV101045,Setapak,Condominium,3.0,2.0,0.0,"1,240 sq. ft.",fully furnished,"RM 2,600",2025-12-09,4.3
+KV101054,Mont Kiara,Serviced Residence,2.0,1.0,0.0,910 sq. ft.,Fully Furnished,"RM 4,700",2026-05-21,3.5
+KV100716,Shah Alam,Apartment,4.0,3.0,3.0,"1,040 sq. ft.",Partly Furnished,"RM 2,250",2025-07-20,5.0
+KV100872,Petaling Jaya,Condominium,3.0,2.0,,"1,230 sq. ft.",fully furnished,"RM 3,750",2026-03-08,3.1
+KV100536,Subang Jaya,Condominium,2.0,1.0,0.0,"1,500 sq. ft.",Partly Furnished,"RM 3,200",2025-06-06,4.3
+KV100266,Mont Kiara,Condominium,0.0,1.0,1.0,"1,140 sq. ft.",Fully Furnished,"RM 5,300",2026-05-14,5.0
+KV100006,Setapak,Terrace House,5.0,4.0,2.0,"1,690 sq. ft.",partially furnished,"RM 2,400",19/06/2025,4.2
+KV100447,Ampang,Serviced Residence,4.0,3.0,2.0,930 sq. ft.,not furnished,"RM 2,600",06/08/2025,4.4
+KV100122,kajang,Condominium,2.0,1.0,1.0,"1,350 sq. ft.",Fully Furnished,"RM 2,900",2026-05-03,4.5
+KV100681,Petaling Jaya,Condominium,2.0,2.0,2.0,"1,300 sq. ft.",Partially Furnished,"RM 3,100",04/04/2025,4.7
+KV100138,KLCC  ,Serviced Residence,,,2.0,800 sq. ft.,Fully Furnished,"RM 4,550",16/06/2025,3.6
+KV100163,Ampang,Serviced Residence,2.0,1.0,,"1,190 sq. ft.",Partially Furnished,"RM 3,950",2025-10-30,5.0
+KV100748,Cyberjaya,Studio,1.0,1.0,,500 sq. ft.,Partially Furnished,"RM 1,300",2025-10-24,4.6
+KV101081,KLCC,Terrace House,4.0,3.0,2.0,"1,470 sq. ft.",Partly Furnished,"RM 5,350",2026-08-10,4.2
+KV101084,Petaling Jaya,Terrace House,4.0,3.0,2.0,,Fully Furnished,"RM 2,750",2025-12-14,4.7
+KV100043,Kajang,Condominium,4.0,3.0,,810 sq. ft.,Partially Furnished,"RM 1,500",2025-04-27,4.5
+KV100781,Mont Kiara,Apartment,2.0,1.0,,570 sq. ft.,Not Furnished,"RM 2,350",2025-12-20,4.4
+KV100768,Kajang,Serviced Residence,4.0,3.0,1.0,660 sq. ft.,Partially Furnished,"RM 1,100",29/08/2026,4.1
+KV100319,KLCC,Condominium,4.0,4.0,1.0,"1,300 sq. ft.",Fully Furnished,"RM 7,450",2025-10-14,4.0
+KV100815,Subang Jaya,Apartment,2.0,2.0,,890 sq. ft.,Fully Furnished,"RM 2,350",2026-04-14,3.3
+KV100810,  Petaling Jaya ,Condominium,4.0,3.0,3.0,"1,070 sq. ft.",Fully Furnished,"RM 3,150",24/10/2025,5.0
+KV100840,KLCC,Studio,1.0,1.0,2.0,430 sq. ft.,,"RM 2,550",12/06/2025,3.9
+KV100294,kajang,Condominium,2.0,2.0,1.0,"1,220 sq. ft.",Not Furnished,"RM 1,900",12/01/2026,3.8
+KV100452,Setapak,Apartment,4.0,4.0,3.0,880 sq. ft.,Fully Furnished,"RM 1,850",2025-09-26,4.3
+KV100694,Ampang,Studio,1.0,1.0,0.0,320 sq. ft.,Fully Furnished,"RM 1,400",2025-12-04,
+KV100618,ampang,Terrace House,5.0,5.0,2.0,"1,580 sq. ft.",PARTIALLY FURNISHED,"RM 3,850",19/07/2026,4.1
+KV100699,Shah Alam,Condominium,3.0,2.0,2.0,,Partially Furnished,"RM 3,000",07/04/2025,3.7
+KV100019,KLCC  ,Condominium,4.0,,3.0,"1,170 sq. ft.",Fully Furnished,"RM 6,000",2025-06-05,4.1
+KV100868,Cheras,Serviced Residence,2.0,2.0,2.0,"20,495 sq. ft.",Fully Furnished,"RM 2,900",2025-07-04,3.4
+KV101034,KLCC,Condominium,2.0,1.0,0.0,"1,190 sq. ft.",PARTIALLY FURNISHED,"RM 6,100",2026-07-04,3.6
+KV100708,Kajang,Serviced Residence,3.0,3.0,,"1,150 sq. ft.",Fully Furnished,"RM 2,300",10/10/2025,5.0
+KV100713,Cheras,Serviced Residence,3.0,2.0,0.0,,Fully Furnished,RM 0,2026-01-03,4.6
+KV101067,KLCC,Terrace House,3.0,2.0,2.0,"1,880 sq. ft.",Not Furnished,"RM 6,200",2026-03-27,3.8
+KV101130,Subang Jaya,Terrace House,4.0,4.0,2.0,"1,200 sq. ft.",Partially Furnished,"RM 2,150",2025-11-03,4.6
+KV100662,Cyberjaya,Terrace House,5.0,4.0,2.0,"1,980 sq. ft.",Fully Furnished,"RM 3,700",2025-06-29,3.7
+KV100921,KLCC,Condominium,3.0,2.0,2.0,"1,180 sq. ft.",Fully Furnished,"RM 7,000",16/08/2025,3.8
+KV100137,Setapak,Condominium,4.0,3.0,1.0,"1,200 sq. ft.",Partially Furnished,"RM 2,200",2025-08-17,3.9
+KV100426,Petaling Jaya,Terrace House,5.0,4.0,2.0,"1,760 sq. ft.",Partially Furnished,"RM 3,900",10/06/2026,4.4
+KV100866,Ampang,Apartment,3.0,,2.0,590 sq. ft.,not furnished,"RM 1,300",2026-05-05,
+KV100185,Bangsar  ,Apartment,2.0,1.0,2.0,960 sq. ft.,Full Furnished,"RM 3,250",2026-05-14,4.9
+KV100780,Shah Alam  ,Serviced Residence,2.0,2.0,,"1,080 sq. ft.",Partially Furnished,"RM 2,250",01/05/2025,
+KV100680,subang jaya,Apartment,2.0,1.0,1.0,750 sq. ft.,Fully Furnished,"RM 1,900",2026-02-13,4.4
+KV101170,Subang Jaya,Condominium,3.0,2.0,0.0,"1,360 sq. ft.",Unfurnished,"RM 3,100",04/02/2026,4.6
+KV100578,Subang Jaya,Serviced Residence,3.0,2.0,2.0,890 sq. ft.,fully furnished,"RM 3,100",2026-06-27,
+KV100606,Cyberjaya,Studio,1.0,1.0,2.0,390 sq. ft.,Partly Furnished,RM 950,06/07/2025,3.7
+KV101160,  Mont Kiara ,Serviced Residence,3.0,2.0,0.0,840 sq. ft.,Fully Furnished,"RM 4,550",2026-04-07,3.6
+KV100522,Subang Jaya,Apartment,4.0,3.0,,810 sq. ft.,partially furnished,"RM 1,850",23/01/2026,4.4
+KV100327,Mont Kiara,Condominium,4.0,3.0,2.0,"1,000 sq. ft.",Fully Furnished,"RM 5,250",02/08/2026,3.1
+KV100317,PUCHONG,Condominium,2.0,1.0,1.0,"1,290 sq. ft.",Fully Furnished,"RM 3,200",2025-06-09,4.2
+KV100886,PUCHONG,Serviced Residence,4.0,3.0,,780 sq. ft.,Full Furnished,"RM 1,900",2025-10-15,2.6
+KV100652,Cheras,Apartment,3.0,3.0,2.0,660 sq. ft.,Unfurnished,"RM 1,100",2025-04-25,3.7
+KV100547,Cheras,Terrace House,5.0,4.0,2.0,"1,170 sq. ft.",Not Furnished,"RM 1,650",2026-06-26,3.1
+KV100746,Subang Jaya,Condominium,4.0,3.0,2.0,"1,200 sq. ft.",FULLY FURNISHED,"RM 2,600",2025-12-25,3.5
+KV100980,Cyberjaya,Serviced Residence,3.0,2.0,2.0,840 sq. ft.,not furnished,"RM 1,800",2025-04-06,3.3
+KV100498,  Kajang ,Apartment,3.0,2.0,0.0,"1,090 sq. ft.",Fully Furnished,"RM 74,018",31/07/2025,3.8
+KV100511,KLCC,Apartment,3.0,3.0,,940 sq. ft.,Partially Furnished,"RM 4,350",2025-09-28,4.5
+KV100800,mont kiara,Studio,1.0,1.0,2.0,380 sq. ft.,,"RM 1,900",2026-04-24,3.3
+KV100148,klcc,Serviced Residence,4.0,4.0,,"1,080 sq. ft.",Fully Furnished,"RM 5,650",2026-07-04,4.6
+KV100964,Mont Kiara,Apartment,2.0,2.0,1.0,660 sq. ft.,Not Furnished,"RM 2,350",2026-08-11,4.6
+KV100985,Subang Jaya,Apartment,2.0,1.0,,990 sq. ft.,Partially Furnished,"RM 2,150",2025-09-20,2.7
+KV100551,Petaling Jaya,Studio,1.0,1.0,0.0,560 sq. ft.,Fully Furnished,"RM 1,650",2025-04-17,4.5
+KV100779,Ampang,Serviced Residence,4.0,4.0,2.0,710 sq. ft.,Not Furnished,"RM 1,750",2025-08-31,4.0
+KV101040,Kajang  ,Condominium,4.0,3.0,2.0,"1,050 sq. ft.",Fully Furnished,"RM 2,100",2026-07-10,
+KV100365,  Ampang ,Apartment,2.0,1.0,0.0,730 sq. ft.,Not Furnished,"RM 1,700",2025-08-21,4.7
+KV101187,Subang Jaya,Condominium,4.0,4.0,1.0,"1,000 sq. ft.",Fully Furnished,"RM 2,800",2026-08-25,3.8
+KV100467,Puchong,Apartment,4.0,3.0,1.0,,Fully Furnished,"RM 2,200",2026-08-24,
+KV100858,Mont Kiara,Condominium,2.0,1.0,,"1,250 sq. ft.",Not Furnished,"RM 4,250",17/06/2025,4.1
+KV100831,Setapak,Condominium,4.0,3.0,,820 sq. ft.,Partially Furnished,"RM 1,700",18/09/2025,4.5
+KV100972,PETALING JAYA,Serviced Residence,4.0,4.0,2.0,930 sq. ft.,Partially Furnished,"RM 2,550",16/08/2026,
+KV100869,Subang Jaya,Terrace House,3.0,2.0,2.0,"2,180 sq. ft.",Full Furnished,"RM 5,550",2026-07-07,4.4
+KV100232,Cheras,Serviced Residence,2.0,1.0,,800 sq. ft.,Not Furnished,"RM 1,750",2025-09-19,3.8
+KV100903,Mont Kiara,Condominium,4.0,3.0,,"1,090 sq. ft.",Fully Furnished,"RM 6,050",01/08/2026,4.1
+KV100667,BANGSAR,Apartment,4.0,3.0,3.0,590 sq. ft.,Fully Furnished,"RM 2,050",2025-05-27,3.3
+KV100828,Kajang,Terrace House,5.0,5.0,3.0,"1,770 sq. ft.",NOT FURNISHED,"RM 2,250",22/07/2025,4.2
+KV100432,Puchong  ,Terrace House,3.0,2.0,2.0,"1,590 sq. ft.",,"RM 2,550",05/01/2026,4.2
+KV100531,  Setapak ,Condominium,4.0,3.0,3.0,"1,000 sq. ft.",Not Furnished,"RM 1,950",24/09/2025,
+KV100158,petaling jaya,Serviced Residence,2.0,2.0,1.0,830 sq. ft.,Fully Furnished,"RM 2,400",2026-02-28,4.1
+KV100315,Cheras,Terrace House,5.0,,2.0,"1,700 sq. ft.",Partly Furnished,"RM 2,750",09/12/2025,3.8
+KV100256,BANGSAR,Studio,1.0,1.0,0.0,460 sq. ft.,Not Furnished,"RM 1,700",2026-03-12,4.2
+KV100778,Cheras,Apartment,3.0,2.0,,"1,120 sq. ft.",Fully Furnished,"RM 2,400",2026-07-01,
+KV100096,Cheras,Serviced Residence,4.0,3.0,3.0,"1,000 sq. ft.",Fully Furnished,"RM 2,350",18/08/2025,4.5
+KV101196,kajang,Apartment,3.0,2.0,,740 sq. ft.,Fully Furnished,"RM 1,300",2025-10-04,4.7
+KV100489,Cyberjaya,Studio,1.0,1.0,0.0,430 sq. ft.,Fully Furnished,"RM 1,250",18/04/2025,3.4
+KV100384,Shah Alam,Serviced Residence,2.0,1.0,,760 sq. ft.,Partially Furnished,"RM 2,050",28/08/2026,3.9
+KV100611,KLCC,Apartment,4.0,4.0,3.0,940 sq. ft.,Partially Furnished,"RM 4,300",2025-03-22,4.4
+KV100177,Kajang,Condominium,3.0,2.0,0.0,860 sq. ft.,Fully Furnished,"RM 1,600",23/12/2025,3.7
+KV100525,Ampang,Serviced Residence,99.0,1.0,2.0,960 sq. ft.,Partially Furnished,"RM 3,050",19/03/2025,4.5
+KV100328,Petaling Jaya  ,Terrace House,3.0,3.0,0.0,"1,390 sq. ft.",fully furnished,"RM 3,350",2025-09-05,4.4
+KV100314,Setapak,Terrace House,5.0,4.0,3.0,"1,230 sq. ft.",Fully Furnished,"RM 2,300",2026-01-16,3.0
+KV100415,Bangsar  ,Condominium,2.0,2.0,,"1,350 sq. ft.",Partially Furnished,"RM 5,700",2026-04-09,3.7
+KV100357,Kajang,Apartment,3.0,2.0,2.0,780 sq. ft.,Fully Furnished,"RM 1,350",27/04/2026,4.1
+KV100347,Subang Jaya,Condominium,4.0,4.0,,"1,290 sq. ft.",Fully Furnished,"RM 3,700",2025-06-02,3.8
+KV100936,Puchong,Apartment,3.0,2.0,2.0,730 sq. ft.,Fully Furnished,"RM 1,650",18/10/2025,3.5
+KV100298,Shah Alam,Condominium,3.0,2.0,2.0,"1,170 sq. ft.",Partially Furnished,"RM 2,700",2025-05-26,4.0
+KV100455,Kajang,Studio,1.0,1.0,2.0,480 sq. ft.,PARTIALLY FURNISHED,RM 950,2025-04-06,4.1
+KV100572,SETAPAK,Serviced Residence,4.0,3.0,,930 sq. ft.,NOT FURNISHED,"RM 1,900",2026-01-12,4.2
+KV100361,Kajang,Condominium,4.0,3.0,1.0,670 sq. ft.,NOT FURNISHED,"RM 1,150",2026-04-18,3.7
+KV100818,KAJANG,Serviced Residence,4.0,3.0,,970 sq. ft.,Fully Furnished,"RM 2,050",2025-09-22,4.0
+KV100732,mont kiara,Serviced Residence,4.0,4.0,3.0,990 sq. ft.,Fully Furnished,"RM 4,950",12/08/2025,4.6
+KV100830,  Mont Kiara ,Serviced Residence,2.0,,,940 sq. ft.,Fully Furnished,"RM 3,900",2025-09-15,
+KV100975,Cyberjaya,Condominium,2.0,,1.0,"1,230 sq. ft.",Fully Furnished,"RM 3,150",04/07/2026,4.5
+KV100249,Setapak,Condominium,3.0,3.0,,"1,080 sq. ft.",Fully Furnished,"RM 2,300",03/06/2026,4.4
+KV100817,Petaling Jaya,Condominium,3.0,2.0,0.0,"1,110 sq. ft.",Partially Furnished,"RM 3,050",2026-06-06,4.3
+KV100015,KLCC,Condominium,3.0,2.0,,"1,220 sq. ft.",Partially Furnished,"RM 6,200",21/08/2025,4.8
+KV101027,Subang Jaya,Serviced Residence,2.0,2.0,1.0,"1,040 sq. ft.",Not Furnished,"RM 2,300",2025-04-28,3.7
+KV100159,  Ampang ,Apartment,2.0,1.0,1.0,700 sq. ft.,PARTIALLY FURNISHED,"RM 1,800",20/11/2025,
+KV100602,Cheras,Condominium,2.0,2.0,,"1,010 sq. ft.",Not Furnished,"RM 1,700",2025-07-04,4.0
+KV100743,shah alam,Condominium,2.0,1.0,2.0,"1,200 sq. ft.",Partially Furnished,"RM 2,800",2026-04-27,4.1
+KV101166,SUBANG JAYA,Apartment,2.0,,,940 sq. ft.,Partially Furnished,"RM 2,350",2025-05-19,
+KV100360,Subang Jaya,Serviced Residence,2.0,2.0,1.0,750 sq. ft.,Fully Furnished,"RM 2,250",11/04/2026,4.3
+KV100048,Cyberjaya,Studio,1.0,1.0,,340 sq. ft.,Fully Furnished,RM 950,30/10/2025,
+KV100202,Kajang,Condominium,2.0,1.0,0.0,"1,210 sq. ft.",Partially Furnished,"RM 2,050",2026-06-09,3.4
+KV100330,SETAPAK,Apartment,2.0,1.0,2.0,"16,566 sq. ft.",Fully Furnished,"RM 1,150",16/02/2026,3.2
+KV100610,Kajang,Serviced Residence,3.0,2.0,2.0,480 sq. ft.,FULLY FURNISHED,"RM 1,050",2025-05-03,3.9
+KV100924,KLCC,Apartment,3.0,3.0,0.0,850 sq. ft.,Not Furnished,"RM 4,000",16/08/2025,4.2
+KV100112,KLCC,Terrace House,4.0,3.0,2.0,"1,550 sq. ft.",FULLY FURNISHED,"RM 5,550",2025-08-14,4.5
+KV100338,Bangsar,Studio,1.0,1.0,,360 sq. ft.,Fully Furnished,"RM 1,800",2025-11-28,3.4
+KV101121,Cyberjaya,Apartment,3.0,,2.0,920 sq. ft.,Not Furnished,"RM 1,750",2026-05-08,4.4
+KV100307,Bangsar,Condominium,,3.0,0.0,"1,170 sq. ft.",Partially Furnished,"RM 4,450",2026-01-27,2.7
+KV100669,Puchong,Serviced Residence,4.0,,2.0,960 sq. ft.,Not Furnished,"RM 1,600",20/03/2025,
+KV100422,klcc,Condominium,3.0,2.0,,"1,150 sq. ft.",Not Furnished,"RM 5,150",2026-02-04,3.7
+KV100416,Setapak,Apartment,3.0,2.0,0.0,670 sq. ft.,,"RM 1,350",2026-05-21,4.2
+KV100971,ampang,Studio,1.0,1.0,2.0,430 sq. ft.,Fully Furnished,"RM 1,450",2026-07-02,4.2
+KV100410,Shah Alam,Condominium,2.0,1.0,2.0,"1,230 sq. ft.",fully furnished,"RM 3,050",2026-01-02,4.3
+KV101125,shah alam,Condominium,4.0,4.0,1.0,"1,220 sq. ft.",Not Furnished,"RM 2,300",12/03/2025,3.1
+KV100806,Subang Jaya,Studio,1.0,1.0,,440 sq. ft.,Partially Furnished,"RM 1,050",2026-04-06,3.0
+KV100893,petaling jaya,Condominium,3.0,3.0,0.0,"1,480 sq. ft.",Fully Furnished,"RM 4,250",2025-04-18,3.8
+KV100658,Puchong,Apartment,4.0,3.0,,760 sq. ft.,Partially Furnished,"RM 1,200",2026-07-31,4.6
+KV100395,Cyberjaya,Condominium,4.0,3.0,3.0,"1,140 sq. ft.",Partially Furnished,"RM 2,500",2026-07-02,4.1
+KV100797,Setapak,Apartment,3.0,3.0,2.0,930 sq. ft.,Fully Furnished,"RM 1,450",2025-07-17,3.2
+KV100459,KLCC,Terrace House,4.0,3.0,1.0,"1,530 sq. ft.",Partially Furnished,"RM 6,600",23/04/2025,4.6
+KV100983,Mont Kiara,Condominium,2.0,2.0,1.0,,Fully Furnished,"RM 5,350",2026-07-23,4.1
+KV100696,Kajang,Apartment,4.0,3.0,1.0,"1,030 sq. ft.",Partially Furnished,"RM 1,350",22/09/2025,4.5
+KV100449,Subang Jaya  ,Condominium,4.0,3.0,,"1,050 sq. ft.",Fully Furnished,"RM 2,850",2025-08-17,
+KV100649,Shah Alam,Serviced Residence,3.0,2.0,,920 sq. ft.,PARTIALLY FURNISHED,"RM 2,350",2026-04-21,3.3
+KV100080,Petaling Jaya,Condominium,2.0,1.0,1.0,"1,030 sq. ft.",,"RM 3,050",2026-08-21,4.4
+KV100656,Puchong,Serviced Residence,2.0,2.0,,910 sq. ft.,Fully Furnished,"RM 2,200",2025-10-27,4.8
+KV100215,Kajang,Terrace House,4.0,3.0,2.0,"1,540 sq. ft.",Partially Furnished,"RM 2,050",2025-12-31,4.3
+KV100635,Ampang,Serviced Residence,3.0,3.0,2.0,"1,050 sq. ft.",FULLY FURNISHED,"RM 3,850",2025-11-14,4.0
+KV100030,Subang Jaya,Serviced Residence,4.0,3.0,3.0,860 sq. ft.,Fully Furnished,"RM 2,650",13/06/2025,4.5
+KV100242,  Setapak ,Apartment,4.0,3.0,2.0,660 sq. ft.,Partially Furnished,"RM 1,200",2025-11-02,3.4
+KV101165,CHERAS,Terrace House,5.0,5.0,,"1,850 sq. ft.",Partly Furnished,"RM 3,300",2025-10-11,4.1
+KV100209,Mont Kiara,Apartment,3.0,2.0,0.0,960 sq. ft.,Not Furnished,"RM 2,750",2026-02-18,4.4
+KV100650,Setapak,Apartment,2.0,2.0,1.0,870 sq. ft.,Not Furnished,"RM 1,400",2025-12-18,3.2
+KV100435,  Cheras ,Condominium,4.0,4.0,2.0,"1,280 sq. ft.",Fully Furnished,"RM 3,350",12/03/2025,3.7
+KV101178,Kajang,Studio,1.0,1.0,2.0,410 sq. ft.,PARTIALLY FURNISHED,RM 800,2026-04-17,3.4
+KV101122,Setapak,Serviced Residence,4.0,,,950 sq. ft.,Fully Furnished,"RM 2,200",06/10/2025,4.9
+KV100804,Cheras  ,Condominium,2.0,1.0,2.0,"1,220 sq. ft.",Fully Furnished,"RM 2,900",16/07/2026,2.8
+KV100403,Subang Jaya  ,Apartment,4.0,3.0,2.0,870 sq. ft.,Partially Furnished,"RM 1,950",2026-07-03,4.4
+KV101082,  Puchong ,Condominium,2.0,1.0,1.0,"1,710 sq. ft.",Not Furnished,"RM 2,750",2026-01-31,4.1
+KV100362,Mont Kiara,Condominium,3.0,2.0,2.0,"1,350 sq. ft.",Partially Furnished,"RM 5,800",2026-02-21,3.9
+KV100271,Petaling Jaya,Condominium,4.0,4.0,2.0,900 sq. ft.,Not Furnished,"RM 2,100",2026-01-08,4.3
+KV100466,Bangsar  ,Apartment,3.0,2.0,2.0,610 sq. ft.,FULLY FURNISHED,"RM 2,400",2026-06-10,4.1
+KV100815,Subang Jaya,Apartment,2.0,2.0,,890 sq. ft.,Fully Furnished,"RM 2,350",2026-04-14,3.3
+KV100792,Cheras,Condominium,4.0,4.0,2.0,"1,650 sq. ft.",Fully Furnished,"RM 3,700",23/05/2025,2.3
+KV100277,puchong,Apartment,4.0,3.0,,830 sq. ft.,Not Furnished,"RM 1,300",2025-07-26,
+KV101094,Mont Kiara  ,Terrace House,5.0,4.0,2.0,"1,500 sq. ft.",Partially Furnished,"RM 4,700",2025-11-12,3.9
+KV101171,cheras,Apartment,3.0,3.0,2.0,750 sq. ft.,Fully Furnished,"RM 1,650",2026-02-21,3.9
+KV101061,CHERAS,Studio,1.0,1.0,0.0,360 sq. ft.,Fully Furnished,RM 900,2026-05-15,3.2
+KV100957,Cyberjaya,Studio,1.0,1.0,0.0,450 sq. ft.,Partially Furnished,"RM 1,000",11/04/2026,3.1
+KV100442,Setapak,Apartment,2.0,2.0,2.0,950 sq. ft.,Fully Furnished,"RM 1,900",2026-07-31,4.7
+KV100299,Cheras,Serviced Residence,2.0,1.0,1.0,560 sq. ft.,Fully Furnished,"RM 1,400",2026-08-20,3.8
+KV100375,Petaling Jaya,Condominium,4.0,3.0,2.0,860 sq. ft.,Fully Furnished,"RM 2,950",02/07/2025,3.5
+KV100677,Shah Alam,Terrace House,5.0,4.0,2.0,"1,510 sq. ft.",Fully Furnished,"RM 3,550",2025-11-21,4.5
+KV100819,Cheras,Serviced Residence,3.0,2.0,2.0,970 sq. ft.,Partially Furnished,"RM 2,100",13/07/2025,4.2
+KV100623,Cheras,Terrace House,4.0,,1.0,"1,700 sq. ft.",Partially Furnished,"RM 2,800",2025-10-25,3.5
+KV100472,Bangsar,Condominium,4.0,3.0,,"1,200 sq. ft.",Fully Furnished,"RM 5,650",2025-08-09,3.2
+KV100939,Setapak,Condominium,2.0,1.0,,840 sq. ft.,Fully Furnished,"RM 2,000",13/09/2025,3.0
+KV101115,Subang Jaya,Apartment,4.0,3.0,2.0,960 sq. ft.,,"RM 1,950",2026-04-15,4.0
+KV100388,Bangsar,Condominium,3.0,3.0,2.0,"1,310 sq. ft.",Not Furnished,"RM 4,200",2026-01-05,3.6
+KV100022,Shah Alam,Studio,1.0,1.0,-0.0,350 sq. ft.,Fully Furnished,"RM 1,000",2025-10-25,4.4
+KV100927,Mont Kiara,Studio,1.0,1.0,,420 sq. ft.,Not Furnished,"RM 1,850",07/10/2025,3.0
+KV100929,Kajang,Serviced Residence,4.0,,1.0,980 sq. ft.,Partially Furnished,"RM 1,700",2026-03-29,4.6
+KV100423,  Shah Alam ,Apartment,3.0,2.0,0.0,"1,150 sq. ft.",Partly Furnished,"RM 1,950",15/04/2026,4.7
+KV101011,Bangsar,Serviced Residence,3.0,,2.0,"1,080 sq. ft.",Fully Furnished,"RM 5,250",24/07/2025,5.0
+KV100758,Setapak  ,Studio,1.0,1.0,0.0,390 sq. ft.,Partially Furnished,RM 700,2026-03-10,3.9
+KV100724,PUCHONG,Condominium,4.0,3.0,3.0,980 sq. ft.,Not Furnished,"RM 1,850",2025-04-18,3.5
+KV100558,Cheras,Serviced Residence,2.0,,1.0,870 sq. ft.,Fully Furnished,"RM 2,100",24/01/2026,
+KV100142,Ampang,Apartment,3.0,2.0,2.0,"1,010 sq. ft.",Fully Furnished,"RM 2,500",2026-02-04,3.3
+KV100050,Subang Jaya,Condominium,2.0,1.0,2.0,970 sq. ft.,Fully Furnished,"RM 2,700",2026-04-21,4.7
+KV100885,kajang,Studio,1.0,1.0,-0.0,370 sq. ft.,Partially Furnished,RM 750,30/05/2025,
+KV100955,Kajang,Terrace House,3.0,2.0,0.0,"1,320 sq. ft.",Partially Furnished,"RM 1,850",2025-03-10,4.5
+KV100081,Kajang,Condominium,3.0,2.0,,"1,090 sq. ft.",Full Furnished,"RM 2,200",23/07/2025,4.7
+KV100482,Petaling Jaya,Condominium,3.0,3.0,2.0,"1,130 sq. ft.",Partially Furnished,"RM 3,400",2025-06-22,
+KV100321,KLCC,Serviced Residence,3.0,3.0,2.0,960 sq. ft.,fully furnished,"RM 6,300",28/03/2025,4.0
+KV101022,Cyberjaya,Apartment,4.0,3.0,,960 sq. ft.,Not Furnished,"RM 1,700",2025-11-20,4.8
+KV100733,PUCHONG,Terrace House,3.0,2.0,2.0,"1,590 sq. ft.",,"RM 2,550",2025-04-03,3.8
+KV101174,Mont Kiara  ,Apartment,4.0,4.0,2.0,850 sq. ft.,Unfurnished,"RM 3,150",2025-10-12,3.8
+KV100066,Kajang,Serviced Residence,3.0,3.0,0.0,520 sq. ft.,Fully Furnished,"RM 1,150",06/05/2025,3.7
+KV101079,Bangsar,Apartment,3.0,2.0,2.0,680 sq. ft.,Fully Furnished,"RM 2,500",2025-08-13,3.5
+KV100573,Subang Jaya,Terrace House,3.0,2.0,2.0,"1,710 sq. ft.",Fully Furnished,"RM 3,400",12/07/2025,
+KV100941,Bangsar,Apartment,,2.0,2.0,970 sq. ft.,partially furnished,"RM 42,230",2026-04-23,3.8
+KV100417,BANGSAR,Apartment,4.0,3.0,2.0,990 sq. ft.,Fully Furnished,"RM 3,850",17/07/2026,4.6
+KV100756,Kajang,Condominium,4.0,3.0,2.0,950 sq. ft.,Fully Furnished,"RM 1,900",25/03/2025,4.0
+KV100064,Petaling Jaya,Apartment,4.0,3.0,1.0,720 sq. ft.,Fully Furnished,"RM 52,661",2025-08-07,4.2
+KV100963,Petaling Jaya,Condominium,3.0,2.0,2.0,"1,340 sq. ft.",Partially Furnished,"RM 3,550",03/11/2025,3.3
+KV100954,Bangsar  ,Condominium,4.0,3.0,,"1,410 sq. ft.",Not Furnished,"RM 5,300",20/07/2026,3.3
+KV100742,CYBERJAYA,Apartment,2.0,1.0,1.0,780 sq. ft.,Not Furnished,"RM 1,500",2025-12-03,4.1
+KV100491,  Ampang ,Terrace House,3.0,3.0,2.0,"1,780 sq. ft.",Fully Furnished,"RM 4,200",2025-12-04,3.1
+KV100747,Cheras  ,Condominium,4.0,3.0,2.0,"1,310 sq. ft.",Fully Furnished,"RM 2,800",27/08/2026,3.7
+KV100848,Ampang,Condominium,3.0,3.0,2.0,"1,070 sq. ft.",Partially Furnished,"RM 2,750",2026-06-21,4.4
+KV100065,Subang Jaya,Condominium,4.0,3.0,1.0,910 sq. ft.,,"RM 2,200",2026-08-16,3.8
+KV101035,Mont Kiara,Condominium,2.0,2.0,1.0,"1,230 sq. ft.",PARTIALLY FURNISHED,"RM 4,700",26/04/2026,4.3
+KV101042,Bangsar,Condominium,2.0,2.0,0.0,"1,150 sq. ft.",Fully Furnished,"RM 5,400",2026-05-25,3.6
+KV100105,Petaling Jaya  ,Condominium,3.0,2.0,2.0,"1,400 sq. ft.",partially furnished,"RM 3,300",19/07/2026,4.4
+KV100296,Cyberjaya,Condominium,3.0,3.0,2.0,960 sq. ft.,Full Furnished,"RM 2,500",2025-03-14,3.5
+KV100419,Setapak,Condominium,3.0,2.0,2.0,"1,340 sq. ft.",Partially Furnished,"RM 2,050",2025-03-17,3.8
+KV100438,Puchong,Studio,1.0,1.0,-0.0,470 sq. ft.,partially furnished,"RM 1,200",01/07/2025,3.8
+KV100261,Ampang  ,Condominium,2.0,1.0,1.0,,Partially Furnished,"RM 3,850",03/04/2025,3.5
+KV100740,Ampang  ,Condominium,2.0,1.0,0.0,"1,300 sq. ft.",Not Furnished,"RM 3,250",2025-11-22,3.2
+KV100281,KLCC,Condominium,2.0,1.0,,"1,000 sq. ft.",Fully Furnished,"RM 5,650",2026-02-04,
+KV100673,Petaling Jaya,Apartment,3.0,3.0,,850 sq. ft.,PARTIALLY FURNISHED,"RM 2,100",2025-03-22,4.1
+KV100721,Cheras,Terrace House,4.0,4.0,,"1,210 sq. ft.",Fully Furnished,"RM 2,000",2025-12-10,4.1
+KV100188,  Cyberjaya ,Terrace House,3.0,2.0,2.0,"1,650 sq. ft.",Full Furnished,"RM 3,250",2026-06-20,
+KV100832,kajang,Condominium,3.0,2.0,,"1,370 sq. ft.",Fully Furnished,"RM 2,900",2025-12-20,4.4
+KV100251,Setapak,Condominium,4.0,3.0,,810 sq. ft.,Partially Furnished,"RM 1,500",2025-03-13,3.5
+KV100798,Petaling Jaya,Serviced Residence,2.0,1.0,,890 sq. ft.,Partially Furnished,"-RM 1,200",23/07/2026,3.2
+KV101180,Cheras,Condominium,2.0,1.0,,"1,060 sq. ft.",Fully Furnished,"RM 2,750",2026-03-23,4.0
+KV100514,Shah Alam,Serviced Residence,4.0,3.0,3.0,"1,060 sq. ft.",partially furnished,"RM 81,398",2025-06-30,4.5
+KV100632,Puchong  ,Condominium,4.0,4.0,2.0,"1,170 sq. ft.",Not Furnished,"RM 2,050",2025-11-20,4.3
+KV100487,Puchong  ,Terrace House,3.0,,2.0,"1,880 sq. ft.",Fully Furnished,"RM 3,300",2025-11-16,3.2
+KV100273,Bangsar,Condominium,4.0,3.0,,"1,380 sq. ft.",Partially Furnished,"RM 5,500",18/08/2026,3.7
+KV101016,Petaling Jaya,Condominium,4.0,3.0,2.0,"1,400 sq. ft.",,"RM 4,250",2025-04-05,4.3
+KV101108,AMPANG,Apartment,2.0,1.0,1.0,930 sq. ft.,Not Furnished,"RM 2,250",2025-10-08,3.6
+KV100448,Subang Jaya,Studio,1.0,1.0,,480 sq. ft.,Fully Furnished,"RM 1,550",2025-08-27,5.0
+KV100411,Puchong,Terrace House,5.0,4.0,2.0,"1,390 sq. ft.",Fully Furnished,"RM 2,600",07/08/2026,4.3
+KV100907,Subang Jaya,Terrace House,3.0,2.0,0.0,"1,580 sq. ft.",Fully Furnished,"RM 3,750",2025-09-10,4.8
+KV101046,Cyberjaya  ,Condominium,4.0,4.0,,"1,100 sq. ft.",Not Furnished,"RM 1,900",2025-11-24,4.8
+KV100990,Shah Alam,Condominium,3.0,2.0,0.0,"1,130 sq. ft.",Partially Furnished,"RM 2,400",16/11/2025,4.7
+KV101080,KLCC,Apartment,2.0,1.0,1.0,960 sq. ft.,Not Furnished,"RM 4,100",26/06/2026,
+KV100149,Setapak,Condominium,4.0,4.0,2.0,"1,110 sq. ft.",Fully Furnished,"RM 2,500",2025-12-22,3.8
+KV100218,Bangsar,Serviced Residence,4.0,3.0,1.0,"1,030 sq. ft.",Partially Furnished,"RM 4,100",2025-03-16,4.3
+KV100239,  Cyberjaya ,Apartment,3.0,3.0,2.0,830 sq. ft.,fully furnished,"RM 2,150",2025-04-28,4.2
+KV100793,Mont Kiara,Terrace House,3.0,2.0,2.0,"1,840 sq. ft.",Partially Furnished,"RM 5,450",2025-07-10,4.1
+KV100192,Petaling Jaya,Serviced Residence,3.0,2.0,2.0,990 sq. ft.,Partially Furnished,"RM 3,250",27/09/2025,3.9
+KV100191,Shah Alam,Studio,1.0,1.0,2.0,450 sq. ft.,Fully Furnished,"RM 1,450",2025-12-22,4.7
+KV100626,Kajang,Serviced Residence,3.0,2.0,0.0,750 sq. ft.,FULLY FURNISHED,"RM 1,850",2025-03-14,3.7
+KV100638,Subang Jaya,Serviced Residence,4.0,3.0,2.0,750 sq. ft.,Fully Furnished,"RM 2,250",2026-04-07,4.2
+KV100642,Cheras,Condominium,3.0,3.0,0.0,960 sq. ft.,Fully Furnished,"RM 2,250",12/04/2025,3.3
+KV100752,Puchong,Serviced Residence,4.0,3.0,1.0,970 sq. ft.,Partially Furnished,"RM 2,000",2026-08-23,
+KV100637,Subang Jaya,Apartment,2.0,1.0,,800 sq. ft.,Fully Furnished,"RM 1,950",2025-08-23,4.3
+KV100997,Bangsar,Serviced Residence,2.0,1.0,0.0,"1,010 sq. ft.",,"RM 3,700",2026-03-11,4.2
+KV100755,Cyberjaya,Apartment,4.0,4.0,,940 sq. ft.,Partially Furnished,"RM 1,750",2026-05-20,3.4
+KV100582,Subang Jaya,Studio,1.0,1.0,0.0,380 sq. ft.,Not Furnished,RM 800,19/05/2025,4.6
+KV100751,Ampang,Serviced Residence,3.0,2.0,2.0,880 sq. ft.,Fully Furnished,"RM 2,750",2026-02-22,4.4
+KV100627,Petaling Jaya,Condominium,3.0,2.0,2.0,"1,020 sq. ft.",Partially Furnished,"RM 2,900",25/02/2026,3.7
+KV101144,setapak,Apartment,3.0,2.0,2.0,790 sq. ft.,Not Furnished,"RM 1,200",2025-08-27,4.1
+KV100323,KLCC  ,Condominium,2.0,1.0,0.0,"1,140 sq. ft.",partially furnished,"RM 4,450",2025-12-26,5.0
+KV101124,Cheras,Apartment,2.0,1.0,1.0,"1,110 sq. ft.",Fully Furnished,"RM 2,200",2026-06-24,3.8
+KV100913,KLCC,Apartment,3.0,2.0,2.0,740 sq. ft.,Partially Furnished,"RM 3,400",2025-08-16,3.4
+KV100925,Petaling Jaya,Studio,1.0,1.0,2.0,410 sq. ft.,Partially Furnished,"RM 1,250",2025-03-11,4.0
+KV100437,Puchong,Condominium,2.0,1.0,0.0,"1,260 sq. ft.",Fully Furnished,"RM 2,500",2026-05-17,3.9
+KV101141,Ampang,Condominium,2.0,2.0,1.0,"1,270 sq. ft.",fully furnished,"RM 3,700",2025-10-01,3.0
+KV100947,Petaling Jaya,Apartment,2.0,1.0,0.0,970 sq. ft.,Fully Furnished,"RM 2,900",2025-08-17,
+KV100341,Subang Jaya,Apartment,4.0,4.0,2.0,"1,030 sq. ft.",Not Furnished,"RM 2,100",2026-04-25,3.6
+KV100002,Puchong,Serviced Residence,3.0,3.0,,"1,030 sq. ft.",Fully Furnished,"RM 2,800",2025-09-19,4.2
+KV100229,  Cyberjaya ,Serviced Residence,3.0,,,"1,010 sq. ft.",Fully Furnished,"RM 3,100",2025-07-31,3.7
+KV101109,shah alam,Condominium,3.0,3.0,2.0,"1,310 sq. ft.",Fully Furnished,"RM 3,850",2025-06-29,4.7
+KV101190,Shah Alam,Serviced Residence,3.0,3.0,2.0,770 sq. ft.,,"RM 2,300",2025-10-17,5.0
+KV100076,Setapak,Condominium,4.0,3.0,3.0,"1,110 sq. ft.",Partly Furnished,"RM 2,100",2025-03-30,4.7
+KV101139,Bangsar,Serviced Residence,,3.0,2.0,"1,270 sq. ft.",Not Furnished,"RM 5,150",2026-05-28,2.6
+KV100371,Setapak,Condominium,2.0,1.0,,"1,080 sq. ft.",partially furnished,"RM 2,100",2026-01-06,3.5
+KV100180,CYBERJAYA,Serviced Residence,,2.0,2.0,900 sq. ft.,Fully Furnished,"RM 2,450",11/04/2025,3.3
+KV101184,KLCC,Studio,1.0,1.0,-0.0,450 sq. ft.,Not Furnished,"RM 2,150",2025-08-30,3.5
+KV100577,Shah Alam,Studio,1.0,1.0,0.0,300 sq. ft.,Fully Furnished,RM 800,2025-03-17,3.9
+KV101172,Mont Kiara,Condominium,3.0,2.0,0.0,"1,140 sq. ft.",Fully Furnished,"RM 4,950",2025-04-06,4.8
+KV100862,Cheras,Apartment,4.0,4.0,2.0,"1,030 sq. ft.",Partially Furnished,"RM 2,050",2025-10-02,3.8
+KV101056,Cyberjaya,Apartment,3.0,3.0,2.0,880 sq. ft.,Fully Furnished,"-RM 1,200",11/02/2026,4.1
+KV101047,CYBERJAYA,Apartment,4.0,3.0,3.0,760 sq. ft.,Partially Furnished,"RM 1,600",05/07/2025,4.1
+KV101049,Puchong,Condominium,3.0,2.0,0.0,"1,220 sq. ft.",Fully Furnished,"RM 2,800",2025-07-01,3.7
+KV100589,  Puchong ,Terrace House,4.0,3.0,,"1,450 sq. ft.",Fully Furnished,"RM 2,900",2026-05-27,3.8
+KV100824,Puchong  ,Condominium,4.0,3.0,2.0,"1,280 sq. ft.",Not Furnished,"RM 2,200",2025-05-14,4.6
+KV101018,Setapak,Serviced Residence,3.0,,,980 sq. ft.,Unfurnished,"RM 1,900",2026-08-01,
+KV100311,Puchong,Serviced Residence,4.0,4.0,2.0,700 sq. ft.,Partially Furnished,"RM 1,550",2025-11-18,3.7
+KV100950,MONT KIARA,Terrace House,4.0,3.0,,"1,700 sq. ft.",not furnished,"RM 5,000",2025-11-23,2.9
+KV100037,Shah Alam,Condominium,3.0,2.0,2.0,"19,441 sq. ft.",Fully Furnished,"RM 2,150",2025-06-26,3.6
+KV100353,Ampang,Apartment,2.0,1.0,0.0,940 sq. ft.,Partially Furnished,"RM 2,550",2025-11-09,6.5
+KV101131,Petaling Jaya,Condominium,3.0,2.0,2.0,"1,040 sq. ft.",Fully Furnished,"RM 3,300",29/07/2026,4.1
+KV100236,KLCC,Serviced Residence,3.0,2.0,2.0,"12,078 sq. ft.",Fully Furnished,"RM 5,550",2025-05-29,
+KV100999,CHERAS,Condominium,99.0,3.0,2.0,820 sq. ft.,Full Furnished,"RM 1,850",13/08/2026,4.3
+KV100499,MONT KIARA,Condominium,4.0,3.0,2.0,870 sq. ft.,Partially Furnished,"RM 3,450",2026-08-19,4.5
+KV100553,Cheras,Studio,1.0,1.0,-0.0,480 sq. ft.,Fully Furnished,"RM 1,150",2026-06-21,3.7
+KV100055,Kajang,Condominium,4.0,3.0,2.0,940 sq. ft.,FULLY FURNISHED,"RM 1,900",2025-12-27,3.8
+KV100302,KLCC  ,Apartment,4.0,3.0,2.0,"9,595 sq. ft.",,"RM 3,300",2026-08-24,3.5
+KV100286,Subang Jaya  ,Apartment,4.0,3.0,3.0,840 sq. ft.,Fully Furnished,"RM 2,150",2025-04-19,3.7
+KV100855,Bangsar,Serviced Residence,2.0,,,980 sq. ft.,Fully Furnished,"RM 4,350",17/08/2026,4.0
+KV100219,KLCC,Condominium,2.0,,2.0,"1,540 sq. ft.",Partially Furnished,"RM 6,700",25/12/2025,3.6
+KV100860,Mont Kiara,Condominium,4.0,3.0,1.0,820 sq. ft.,,"RM 3,850",2025-06-29,4.0
+KV100387,Bangsar,Serviced Residence,4.0,3.0,2.0,"1,080 sq. ft.",Fully Furnished,"RM 5,300",13/08/2025,4.4
+KV100785,bangsar,Apartment,3.0,3.0,2.0,650 sq. ft.,Not Furnished,"RM 2,000",2025-04-07,4.8
+KV100390,Kajang,Apartment,2.0,2.0,2.0,"1,110 sq. ft.",partially furnished,"RM 1,850",15/12/2025,3.7
+KV100352,Subang Jaya,Condominium,2.0,1.0,2.0,"15,800 sq. ft.",PARTIALLY FURNISHED,"RM 2,800",2026-06-01,
+KV100193,KLCC,Serviced Residence,3.0,3.0,0.0,940 sq. ft.,Partially Furnished,"RM 4,500",2026-06-15,
+KV100235,Puchong,Apartment,,2.0,2.0,"1,190 sq. ft.",Partially Furnished,"RM 2,250",2025-12-12,4.0
+KV101044,Puchong,Studio,1.0,1.0,-0.0,400 sq. ft.,Not Furnished,RM 850,16/12/2025,4.2
+KV100480,Petaling Jaya,Apartment,4.0,3.0,,990 sq. ft.,Partly Furnished,"-RM 1,200",18/03/2025,4.0
+KV100567,Kajang,Condominium,2.0,2.0,,"1,030 sq. ft.",Partially Furnished,"RM 1,350",22/12/2025,3.3
+KV100116,Cyberjaya,Studio,1.0,1.0,0.0,400 sq. ft.,Partially Furnished,RM 950,2025-08-21,3.7
+KV100928,Ampang,Condominium,4.0,4.0,,"1,200 sq. ft.",Not Furnished,"RM 3,500",2026-04-11,3.9
+KV100653,Setapak,Terrace House,3.0,2.0,2.0,"2,020 sq. ft.",Partially Furnished,"RM 2,800",2025-10-29,3.0
+KV101128,MONT KIARA,Condominium,2.0,2.0,0.0,,Fully Furnished,"RM 6,050",01/06/2025,3.5
+KV101142,Subang Jaya,Condominium,4.0,,2.0,"1,210 sq. ft.",FULLY FURNISHED,"RM 3,400",2026-01-11,
+KV100816,  KLCC ,Serviced Residence,2.0,1.0,1.0,"1,160 sq. ft.",,"RM 5,650",15/10/2025,3.3
+KV100829,Setapak,Serviced Residence,4.0,4.0,2.0,990 sq. ft.,Fully Furnished,"RM 2,400",2026-05-16,5.0
+KV100120,Setapak,Condominium,4.0,4.0,1.0,"1,280 sq. ft.",Partially Furnished,"RM 2,450",31/10/2025,4.5
+KV100874,Mont Kiara,Condominium,4.0,4.0,2.0,"1,220 sq. ft.",FULLY FURNISHED,"RM 6,600",2026-05-29,4.7
+KV101053,Puchong,Serviced Residence,3.0,3.0,2.0,950 sq. ft.,Partially Furnished,"RM 2,050",08/04/2026,3.8
+KV100825,Subang Jaya,Apartment,4.0,3.0,2.0,860 sq. ft.,FULLY FURNISHED,"RM 2,450",13/07/2026,2.8
+KV100062,Setapak,Condominium,3.0,2.0,2.0,"1,050 sq. ft.",Partially Furnished,"-RM 1,200",2025-06-23,4.4
+KV101148,KLCC,Condominium,2.0,1.0,1.0,"1,160 sq. ft.",fully furnished,"RM 6,500",2026-05-17,3.0
+KV100453,Shah Alam,Apartment,2.0,2.0,,"1,030 sq. ft.",Fully Furnished,"RM 2,000",13/04/2025,3.3
+KV100515,Ampang,Condominium,3.0,,2.0,"1,410 sq. ft.",Fully Furnished,"RM 5,100",2025-11-04,4.8
+KV100570,bangsar,Terrace House,3.0,2.0,2.0,"1,380 sq. ft.",Partially Furnished,"RM 4,900",18/03/2026,5.0
+KV100223,Ampang,Condominium,3.0,2.0,2.0,"1,190 sq. ft.",Not Furnished,"RM 3,100",2026-07-30,4.3
+KV100613,Cheras  ,Serviced Residence,2.0,2.0,,760 sq. ft.,Partially Furnished,"RM 1,650",2026-01-01,4.9
+KV100221,Setapak,Condominium,3.0,2.0,2.0,"1,040 sq. ft.",Not Furnished,"RM 1,950",2025-08-20,3.6
+KV101026,subang jaya,Condominium,3.0,3.0,,"1,070 sq. ft.",Not Furnished,"RM 2,400",23/03/2026,
+KV101048,Bangsar,Studio,1.0,1.0,,400 sq. ft.,Fully Furnished,RM 0,2026-06-18,3.8
+KV100465,Kajang,Apartment,4.0,4.0,1.0,930 sq. ft.,Partly Furnished,"RM 1,400",30/07/2026,4.5
+KV100052,Puchong,Apartment,4.0,3.0,,790 sq. ft.,Partly Furnished,"RM 1,500",2025-12-19,4.1
+KV101129,Subang Jaya,Condominium,3.0,2.0,2.0,"1,250 sq. ft.",Fully Furnished,"RM 4,300",2025-08-20,3.5
+KV100485,  Shah Alam ,Condominium,3.0,2.0,,"1,460 sq. ft.",Fully Furnished,"RM 4,000",2025-12-08,4.0
+KV100493,Cyberjaya,Studio,1.0,1.0,2.0,490 sq. ft.,not furnished,"RM 1,150",2026-01-19,4.7
+KV100984,Setapak,Apartment,2.0,1.0,,"1,180 sq. ft.",fully furnished,"RM 2,650",11/08/2026,5.0
+KV100155,KAJANG,Serviced Residence,4.0,3.0,1.0,"1,070 sq. ft.",Fully Furnished,"RM 2,550",2025-05-23,3.7
+KV100982,KLCC,Studio,1.0,1.0,0.0,450 sq. ft.,FULLY FURNISHED,"RM 2,750",2026-02-16,4.1
+KV100600,Cheras,Condominium,4.0,3.0,1.0,"1,140 sq. ft.",Partially Furnished,"RM 2,600",02/07/2026,3.7
+KV101199,Kajang,Serviced Residence,3.0,3.0,,920 sq. ft.,Fully Furnished,"RM 2,250",2025-09-21,
+KV100248,Bangsar,Terrace House,3.0,2.0,,"1,700 sq. ft.",Fully Furnished,"RM 7,050",2025-12-20,3.8
+KV100441,SETAPAK,Apartment,3.0,3.0,2.0,840 sq. ft.,Not Furnished,"RM 1,400",05/01/2026,3.9
+KV101119,Shah Alam  ,Serviced Residence,3.0,2.0,,"1,000 sq. ft.",FULLY FURNISHED,"RM 2,750",08/02/2026,4.0
+KV101132,Puchong,Serviced Residence,3.0,2.0,2.0,,Partially Furnished,"RM 2,000",2025-10-24,3.6
+KV100542,Petaling Jaya,Apartment,2.0,1.0,2.0,890 sq. ft.,Partially Furnished,"RM 1,950",2025-07-19,
+KV100701,Bangsar  ,Apartment,3.0,2.0,2.0,710 sq. ft.,Partially Furnished,"RM 2,600",2025-11-29,3.0
+KV100117,  Cyberjaya ,Apartment,4.0,3.0,2.0,900 sq. ft.,,"RM 2,200",28/05/2026,4.3
+KV100794,Bangsar,Condominium,3.0,2.0,2.0,940 sq. ft.,Partially Furnished,"RM 3,750",2026-02-01,3.9
+KV100628,Puchong,Apartment,3.0,3.0,,740 sq. ft.,,"RM 1,200",2025-04-19,4.1
+KV100760,Kajang,Condominium,3.0,2.0,2.0,970 sq. ft.,Not Furnished,"RM 1,300",2026-01-31,3.8
+KV101146,Ampang  ,Condominium,3.0,3.0,0.0,"1,600 sq. ft.",Full Furnished,"RM 5,450",10/06/2026,4.8
+KV100291,cyberjaya,Condominium,3.0,3.0,0.0,"1,360 sq. ft.",,"RM 3,600",06/11/2025,3.9
+KV101075,KLCC,Serviced Residence,4.0,3.0,2.0,900 sq. ft.,Fully Furnished,"RM 5,450",2026-08-13,3.8
+KV100381,AMPANG,Terrace House,5.0,5.0,2.0,"1,800 sq. ft.",Partially Furnished,"RM 4,150",21/05/2025,3.9
+KV101195,Cheras  ,Condominium,,3.0,,950 sq. ft.,Not Furnished,"RM 2,000",2026-02-02,
+KV100870,PUCHONG,Condominium,2.0,2.0,,"1,340 sq. ft.",Partially Furnished,"RM 2,450",10/07/2026,2.7
+KV100200,Bangsar,Condominium,3.0,2.0,2.0,"1,240 sq. ft.",Fully Furnished,"RM 5,450",2025-07-25,4.3
+KV100596,Subang Jaya,Apartment,4.0,3.0,2.0,750 sq. ft.,Partially Furnished,"RM 1,600",2025-11-27,4.5
+KV101038,Cyberjaya,Apartment,2.0,1.0,0.0,760 sq. ft.,Partially Furnished,"RM 1,700",03/04/2026,4.1
+KV101173,  Petaling Jaya ,Serviced Residence,3.0,3.0,,620 sq. ft.,Not Furnished,"RM 1,350",18/09/2025,4.1
+KV100496,Ampang,Apartment,2.0,2.0,2.0,670 sq. ft.,Fully Furnished,"RM 2,000",2025-09-08,
+KV100757,Petaling Jaya,Terrace House,4.0,3.0,2.0,"1,660 sq. ft.",Fully Furnished,"RM 4,050",2025-11-03,5.0
+KV101008,Mont Kiara  ,Serviced Residence,3.0,2.0,2.0,810 sq. ft.,Fully Furnished,"RM 3,950",20/05/2026,3.6
+KV100505,Cheras,Terrace House,5.0,5.0,3.0,"1,610 sq. ft.",Fully Furnished,"RM 3,500",2025-09-15,
+KV100348,Shah Alam,Apartment,2.0,1.0,2.0,"1,150 sq. ft.",Fully Furnished,"RM 3,250",21/06/2026,4.2
+KV101179,Subang Jaya  ,Apartment,2.0,1.0,1.0,760 sq. ft.,Fully Furnished,"RM 1,950",05/08/2025,2.9
+KV100345,PETALING JAYA,Terrace House,5.0,,2.0,"1,960 sq. ft.",Fully Furnished,"RM 5,200",16/05/2025,3.8
+KV100340,Ampang,Serviced Residence,2.0,,,"1,070 sq. ft.",,"RM 3,850",2025-08-14,
+KV100615,Puchong  ,Studio,99.0,1.0,,,FULLY FURNISHED,RM 850,05/01/2026,4.8
+KV100154,Cyberjaya,Serviced Residence,4.0,3.0,2.0,"1,060 sq. ft.",Fully Furnished,"RM 3,100",2026-07-25,3.7
+KV101140,Mont Kiara  ,Condominium,3.0,2.0,2.0,"1,590 sq. ft.",Fully Furnished,"RM 7,150",31/05/2025,3.7
+KV100813,PETALING JAYA,Condominium,,2.0,2.0,"1,350 sq. ft.",Partially Furnished,"RM 3,850",11/11/2025,3.6
+KV100077,Bangsar,Condominium,4.0,4.0,1.0,930 sq. ft.,,"RM 4,700",2026-05-31,
+KV100287,Petaling Jaya,Apartment,2.0,1.0,0.0,800 sq. ft.,Not Furnished,"RM 1,700",2025-06-12,4.4
+KV100322,SETAPAK,Condominium,3.0,,2.0,900 sq. ft.,Partially Furnished,"RM 1,800",2025-09-10,3.8
+KV100878,Petaling Jaya  ,Apartment,3.0,2.0,2.0,860 sq. ft.,Not Furnished,"RM 1,850",2026-08-12,3.2
+KV100877,Mont Kiara,Condominium,4.0,3.0,1.0,"1,260 sq. ft.",,"RM 5,450",2025-09-24,4.2
+KV101106,Setapak,Studio,1.0,1.0,,520 sq. ft.,Fully Furnished,"RM 1,200",2025-05-05,4.1
+KV100082,Bangsar  ,Studio,1.0,,0.0,360 sq. ft.,Not Furnished,"RM 1,550",2025-05-25,4.3
+KV100845,BANGSAR,Apartment,2.0,1.0,2.0,830 sq. ft.,fully furnished,"RM 2,750",2026-03-30,3.9
+KV100464,Petaling Jaya,Condominium,3.0,2.0,2.0,"1,270 sq. ft.",Partially Furnished,"RM 2,850",2026-06-17,4.2
+KV100861,Kajang,Serviced Residence,2.0,1.0,1.0,"20,498 sq. ft.",Fully Furnished,"RM 1,900",21/07/2026,3.9
+KV101023,Shah Alam,Serviced Residence,2.0,1.0,1.0,970 sq. ft.,Not Furnished,"RM 2,600",25/08/2025,2.9
+KV100878,Petaling Jaya  ,Apartment,3.0,2.0,2.0,860 sq. ft.,Not Furnished,"RM 1,850",2026-08-12,3.2
+KV100810,  Petaling Jaya ,Condominium,4.0,3.0,3.0,"1,070 sq. ft.",Fully Furnished,"RM 3,150",24/10/2025,5.0
+KV100333,Puchong,Condominium,4.0,3.0,2.0,"1,050 sq. ft.",Full Furnished,"RM 2,400",10/12/2025,4.3
+KV100010,KLCC,Condominium,4.0,4.0,2.0,"1,190 sq. ft.",Partially Furnished,"RM 5,750",2025-06-26,4.1
+KV100738,Bangsar,Condominium,3.0,2.0,2.0,"1,060 sq. ft.",fully furnished,"RM 5,300",19/08/2025,3.4
+KV100470,Cyberjaya  ,Condominium,3.0,2.0,2.0,960 sq. ft.,Not Furnished,"RM 1,700",2026-02-01,4.7
+KV100032,BANGSAR,Condominium,4.0,3.0,3.0,"1,140 sq. ft.",Fully Furnished,"RM 5,800",2025-12-25,3.8
+KV100902,Subang Jaya,Apartment,3.0,,0.0,920 sq. ft.,Partially Furnished,"RM 2,200",2026-08-12,3.1
+KV100413,Setapak,Apartment,2.0,,,"1,250 sq. ft.",FULLY FURNISHED,"RM 2,300",2025-12-04,5.0
+KV100580,Bangsar,Condominium,2.0,1.0,1.0,"1,140 sq. ft.",Fully Furnished,"RM 4,800",2025-10-28,4.0
+KV100382,Kajang,Serviced Residence,4.0,3.0,2.0,"1,040 sq. ft.",Partially Furnished,"RM 1,750",2026-01-27,4.9
+KV100881,KLCC  ,Serviced Residence,4.0,4.0,2.0,990 sq. ft.,Fully Furnished,"RM 6,200",2025-07-15,
+KV101028,Petaling Jaya,Terrace House,5.0,4.0,2.0,"1,460 sq. ft.",Partially Furnished,"RM 2,800",2026-02-09,4.3
+KV101169,KLCC,Condominium,3.0,2.0,,"1,060 sq. ft.",Partially Furnished,"RM 5,000",2026-08-25,3.8
+KV100895,AMPANG,Serviced Residence,2.0,2.0,2.0,"1,140 sq. ft.",Fully Furnished,"RM 4,050",2026-01-11,4.3
+KV101193,  Cyberjaya ,Apartment,4.0,4.0,1.0,,FULLY FURNISHED,"RM 1,550",2026-06-04,4.2
+KV100378,Petaling Jaya,Apartment,3.0,2.0,2.0,840 sq. ft.,Partly Furnished,"RM 2,350",10/02/2026,3.8
+KV100089,Mont Kiara,Condominium,3.0,2.0,,"1,210 sq. ft.",Fully Furnished,"RM 6,050",2025-07-31,
+KV101167,Ampang,Studio,1.0,1.0,,400 sq. ft.,Fully Furnished,"RM 1,650",29/08/2026,3.0
+KV100601,Mont Kiara,Condominium,3.0,2.0,2.0,"1,220 sq. ft.",Fully Furnished,"RM 6,050",2025-05-27,4.8
+KV100213,cyberjaya,Condominium,2.0,1.0,2.0,"1,110 sq. ft.",Fully Furnished,"RM 2,850",10/06/2026,3.5
+KV100332,Setapak,Serviced Residence,4.0,3.0,3.0,880 sq. ft.,Not Furnished,"RM 1,750",2025-10-23,4.6
+KV100133,Mont Kiara,Serviced Residence,3.0,2.0,0.0,630 sq. ft.,Not Furnished,"RM 2,550",2026-04-12,3.5
+KV100346,Ampang,Serviced Residence,3.0,2.0,2.0,"1,050 sq. ft.",Fully Furnished,"RM 3,750",2026-07-17,3.4
+KV100918,Shah Alam,Apartment,2.0,1.0,,"1,070 sq. ft.",Full Furnished,"RM 2,500",23/12/2025,3.3
+KV100007,Ampang,Condominium,4.0,3.0,,860 sq. ft.,Partially Furnished,"RM 2,700",2025-04-23,2.7
+KV100899,Setapak,Serviced Residence,2.0,1.0,,800 sq. ft.,,"RM 1,750",2025-04-03,3.6
+KV100320,Cyberjaya,Apartment,4.0,4.0,1.0,750 sq. ft.,Partially Furnished,"RM 1,600",2025-04-09,
+KV101078,cheras,Serviced Residence,4.0,3.0,2.0,"1,210 sq. ft.",Partially Furnished,"RM 3,250",2025-09-26,4.3
+KV100187,KLCC,Terrace House,5.0,,2.0,"1,490 sq. ft.",Full Furnished,"RM 5,950",2025-05-08,3.9
+KV100634,Setapak,Terrace House,5.0,4.0,2.0,"1,530 sq. ft.",Fully Furnished,"RM 3,000",2026-02-20,3.2
+KV100552,  Kajang ,Terrace House,5.0,4.0,2.0,"1,620 sq. ft.",Fully Furnished,"RM 2,250",19/04/2025,4.0
+KV100304,Puchong,Serviced Residence,4.0,3.0,,970 sq. ft.,Fully Furnished,RM 0,2025-05-30,3.8
+KV100031,Petaling Jaya,Apartment,4.0,3.0,3.0,950 sq. ft.,partially furnished,"RM 50,293",2026-08-03,5.0
+KV100891,  Cheras ,Serviced Residence,2.0,1.0,,"1,080 sq. ft.",Partially Furnished,"RM 1,950",23/11/2025,5.0
+KV100684,Shah Alam,Condominium,3.0,2.0,0.0,"1,130 sq. ft.",PARTIALLY FURNISHED,"RM 2,600",28/10/2025,3.8
+KV101110,PETALING JAYA,Serviced Residence,4.0,,,"1,260 sq. ft.",Fully Furnished,"RM 4,000",15/03/2026,3.5
+KV100240,Bangsar,Apartment,3.0,2.0,2.0,970 sq. ft.,Partially Furnished,"RM 3,650",18/04/2025,3.6
+KV100067,Puchong,Condominium,4.0,3.0,1.0,"1,410 sq. ft.",Fully Furnished,"RM 2,750",2026-01-13,3.5
+KV100174,Puchong,Studio,1.0,1.0,,440 sq. ft.,Fully Furnished,"RM 1,200",01/08/2025,4.1
+KV100766,PUCHONG,Condominium,3.0,2.0,2.0,830 sq. ft.,Partially Furnished,"RM 1,700",2025-08-05,3.6
+KV100352,Subang Jaya,Condominium,2.0,1.0,2.0,"15,800 sq. ft.",PARTIALLY FURNISHED,"RM 2,800",2026-06-01,
+KV100245,cheras,Serviced Residence,3.0,2.0,0.0,880 sq. ft.,Fully Furnished,"RM 2,100",2026-05-21,4.3
+KV100056,KLCC,Condominium,,3.0,,960 sq. ft.,Not Furnished,"RM 3,800",2026-08-01,3.1
+KV100630,  Ampang ,Apartment,2.0,1.0,1.0,870 sq. ft.,Fully Furnished,"RM 2,500",22/07/2026,3.9
+KV100583,  Kajang ,Studio,1.0,1.0,0.0,420 sq. ft.,Not Furnished,RM 750,2025-04-04,4.0
+KV101103,Petaling Jaya  ,Apartment,3.0,3.0,,"1,030 sq. ft.",partially furnished,"RM 2,150",2025-07-24,4.4
+KV100145,Ampang,Apartment,3.0,2.0,0.0,920 sq. ft.,Full Furnished,"RM 3,050",2025-10-06,3.7
+KV100090,Cheras,Terrace House,5.0,5.0,2.0,"1,640 sq. ft.",Fully Furnished,"RM 3,400",01/05/2026,4.6
+KV101150,  Shah Alam ,Studio,1.0,1.0,-0.0,470 sq. ft.,partially furnished,"RM 1,200",2026-06-06,3.8
+KV100392,  Shah Alam ,Condominium,4.0,4.0,2.0,"1,080 sq. ft.",Fully Furnished,"RM 2,700",2025-12-13,4.5
+KV100912,Ampang,Condominium,4.0,4.0,3.0,"1,190 sq. ft.",Fully Furnished,"RM 3,300",29/06/2025,3.8
+KV100682,Bangsar,Serviced Residence,3.0,2.0,2.0,960 sq. ft.,Partially Furnished,"RM 4,400",2026-08-19,4.1
+KV100310,Puchong,Condominium,3.0,2.0,0.0,"1,350 sq. ft.",PARTIALLY FURNISHED,"RM 2,600",2025-05-11,4.2
+KV100359,cheras,Condominium,2.0,1.0,0.0,"1,180 sq. ft.",Not Furnished,"RM 2,450",2026-03-22,4.0
+KV100093,Subang Jaya,Condominium,3.0,2.0,,"1,020 sq. ft.",Fully Furnished,"RM 3,250",29/08/2025,
+KV101021,Cyberjaya  ,Apartment,4.0,,3.0,660 sq. ft.,Partially Furnished,"RM 1,550",2026-06-07,4.4
+KV101058,Subang Jaya,Condominium,2.0,1.0,1.0,"1,320 sq. ft.",Partially Furnished,"RM 3,400",2025-12-16,4.5
+KV100376,Kajang,Apartment,3.0,2.0,,"1,020 sq. ft.",Fully Furnished,"RM 1,700",2025-11-24,4.0
+KV100243,  Setapak ,Terrace House,3.0,2.0,2.0,"1,720 sq. ft.",Partially Furnished,"RM 2,550",17/11/2025,3.8
+KV101112,Cheras,Condominium,4.0,4.0,2.0,"1,060 sq. ft.",Partially Furnished,"RM 2,100",2025-10-28,3.4
+KV100087,Puchong,Apartment,3.0,2.0,,770 sq. ft.,Fully Furnished,"RM 1,700",05/02/2026,3.2
+KV100214,Mont Kiara,Apartment,3.0,2.0,2.0,"1,230 sq. ft.",Fully Furnished,"RM 4,500",2026-05-30,
+KV100444,Kajang  ,Apartment,3.0,2.0,,960 sq. ft.,Not Furnished,"RM 1,400",05/11/2025,4.1
+KV100173,MONT KIARA,Serviced Residence,,2.0,,830 sq. ft.,Not Furnished,"RM 3,700",2026-03-15,2.6
+KV101194,SHAH ALAM,Serviced Residence,3.0,2.0,0.0,910 sq. ft.,Fully Furnished,"RM 2,600",08/07/2025,4.3
+KV100425,  Subang Jaya ,Apartment,3.0,3.0,0.0,770 sq. ft.,Full Furnished,"RM 1,850",2025-07-24,4.6
+KV101074,Setapak,Condominium,3.0,3.0,0.0,"1,170 sq. ft.",Fully Furnished,"RM 2,950",28/02/2026,3.7
+KV100118,Ampang,Terrace House,5.0,4.0,2.0,"1,770 sq. ft.",Fully Furnished,"RM 5,550",2025-06-15,4.7
+KV100119,Kajang,Condominium,3.0,3.0,0.0,"1,490 sq. ft.",Partially Furnished,"RM 2,600",2025-03-26,3.5
+KV100978,Cyberjaya,Serviced Residence,2.0,1.0,,"1,090 sq. ft.",Full Furnished,"RM 3,150",13/11/2025,3.5
+KV101189,Ampang,Terrace House,3.0,2.0,0.0,"1,270 sq. ft.",Fully Furnished,"RM 3,250",2025-03-30,4.1
+KV100000,Shah Alam,Apartment,4.0,3.0,1.0,820 sq. ft.,Fully Furnished,"RM 2,300",30/05/2025,3.6
+KV100394,Kajang,Serviced Residence,4.0,3.0,1.0,820 sq. ft.,Partially Furnished,"RM 1,500",2026-02-08,3.5
+KV100401,Kajang,Condominium,2.0,2.0,1.0,"1,140 sq. ft.",Fully Furnished,"RM 2,150",2025-10-26,3.8
+KV100404,Cheras,Condominium,3.0,,0.0,"1,290 sq. ft.",Partially Furnished,"RM 2,400",2025-11-27,4.2
+KV100897,Setapak,Condominium,3.0,2.0,2.0,"1,180 sq. ft.",NOT FURNISHED,"RM 2,000",24/02/2026,3.5
+KV101083,Bangsar,Apartment,2.0,1.0,2.0,910 sq. ft.,Partially Furnished,"RM 3,900",16/01/2026,3.2
+KV100162,Cyberjaya,Serviced Residence,4.0,4.0,,780 sq. ft.,Partially Furnished,"RM 1,850",15/12/2025,4.7
+KV100114,  Petaling Jaya ,Apartment,2.0,1.0,0.0,,Unfurnished,"-RM 1,200",10/04/2026,
+KV100670,Setapak,Serviced Residence,4.0,3.0,,760 sq. ft.,Partially Furnished,"RM 1,500",2025-08-21,
+KV100150,Petaling Jaya,Serviced Residence,4.0,4.0,2.0,"1,290 sq. ft.",FULLY FURNISHED,"RM 4,200",17/07/2025,3.4
+KV100853,Cheras,Studio,1.0,1.0,0.0,410 sq. ft.,Partially Furnished,RM 850,2025-05-07,4.0
+KV101014,Mont Kiara  ,Serviced Residence,2.0,2.0,1.0,"1,010 sq. ft.",Partially Furnished,"RM 3,950",13/03/2025,4.2
+KV100561,mont kiara,Condominium,3.0,2.0,,"1,130 sq. ft.",Partially Furnished,"RM 4,650",16/11/2025,3.1
+KV100368,Bangsar,Apartment,2.0,,,760 sq. ft.,Not Furnished,"RM 51,624",2025-12-07,3.8
+KV100543,Mont Kiara,Apartment,4.0,3.0,,530 sq. ft.,Partially Furnished,"RM 2,050",16/04/2025,4.4
+KV100477,Ampang,Condominium,4.0,3.0,,"1,360 sq. ft.",Partially Furnished,"RM 4,350",04/05/2025,3.5
+KV101164,Cheras,Condominium,3.0,2.0,,760 sq. ft.,Partially Furnished,"RM 1,950",16/12/2025,4.0
+KV100532,Petaling Jaya  ,Studio,1.0,1.0,0.0,450 sq. ft.,Not Furnished,"RM 1,250",2026-07-06,5.0
+KV100625,Kajang,Serviced Residence,3.0,3.0,2.0,890 sq. ft.,FULLY FURNISHED,"RM 2,300",2025-07-31,2.5
+KV100692,subang jaya,Studio,1.0,1.0,2.0,420 sq. ft.,Partially Furnished,"RM 1,100",2026-05-17,5.0
+KV100512,Subang Jaya,Apartment,3.0,2.0,2.0,940 sq. ft.,FULLY FURNISHED,"RM 2,250",2026-08-14,3.5
+KV100856,KAJANG,Condominium,2.0,1.0,1.0,940 sq. ft.,FULLY FURNISHED,"RM 1,850",2025-12-11,3.9
+KV100072,Subang Jaya,Terrace House,5.0,4.0,2.0,"1,920 sq. ft.",Not Furnished,"RM 3,350",17/04/2025,4.3
+KV100920,Cheras,Serviced Residence,4.0,4.0,2.0,940 sq. ft.,partially furnished,"RM 2,100",2025-07-18,2.9
+KV100807,Mont Kiara,Serviced Residence,3.0,3.0,,770 sq. ft.,partially furnished,"RM 3,400",27/08/2025,
+KV100258,cyberjaya,Serviced Residence,3.0,2.0,,"1,070 sq. ft.",Fully Furnished,"RM 3,050",01/05/2025,4.9
+KV100624,Cyberjaya,Serviced Residence,4.0,3.0,3.0,"1,090 sq. ft.",Unfurnished,"RM 2,250",02/02/2026,
+KV100826,Bangsar  ,Terrace House,5.0,4.0,2.0,"1,370 sq. ft.",Partially Furnished,"RM 4,050",2026-03-29,3.7
+KV100234,Shah Alam,Studio,1.0,1.0,-0.0,460 sq. ft.,FULLY FURNISHED,RM 0,22/12/2025,4.2
+KV100135,Petaling Jaya,Serviced Residence,4.0,,2.0,"1,120 sq. ft.",Not Furnished,"RM 3,250",23/06/2025,5.0
+KV100616,KLCC  ,Apartment,4.0,4.0,2.0,900 sq. ft.,Fully Furnished,"RM 4,800",2025-09-13,3.8
+KV100516,subang jaya,Studio,1.0,1.0,0.0,380 sq. ft.,Fully Furnished,"RM 1,200",11/01/2026,4.1
+KV100930,Petaling Jaya  ,Serviced Residence,3.0,2.0,2.0,970 sq. ft.,Fully Furnished,"RM 3,650",01/03/2026,4.9
+KV100836,Bangsar,Serviced Residence,2.0,1.0,1.0,830 sq. ft.,Partially Furnished,"RM 2,750",2026-08-05,3.3
+KV100842,PETALING JAYA,Apartment,3.0,,,"1,160 sq. ft.",partially furnished,"RM 2,750",2025-11-08,3.2
+KV100802,Ampang,Serviced Residence,4.0,3.0,,490 sq. ft.,Fully Furnished,"RM 1,800",2026-05-11,4.3
+KV100851,MONT KIARA,Condominium,4.0,3.0,2.0,"1,140 sq. ft.",Fully Furnished,"RM 6,300",2025-06-07,4.1
+KV100809,KLCC,Serviced Residence,3.0,2.0,,"1,120 sq. ft.",Fully Furnished,"RM 7,000",2025-06-19,4.0
+KV100592,shah alam,Apartment,3.0,,2.0,830 sq. ft.,Fully Furnished,"RM 1,800",2026-01-06,3.8
+KV101090,Cyberjaya  ,Condominium,2.0,2.0,1.0,"1,370 sq. ft.",Partially Furnished,"RM 2,700",2026-03-19,4.7
+KV100501,CYBERJAYA,Terrace House,5.0,5.0,2.0,,Fully Furnished,"RM 4,300",04/08/2025,4.2
+KV100538,Ampang,Condominium,2.0,1.0,,"1,040 sq. ft.",Partially Furnished,"RM 2,700",2025-08-05,4.9
+KV101019,Ampang,Condominium,2.0,1.0,2.0,"1,230 sq. ft.",,"RM 4,250",2025-07-24,
+KV100728,Subang Jaya,Serviced Residence,4.0,4.0,1.0,820 sq. ft.,Not Furnished,"RM 1,900",2025-07-28,4.8
+KV100581,Shah Alam,Serviced Residence,4.0,3.0,3.0,890 sq. ft.,fully furnished,"RM 2,450",2026-08-02,
+KV100343,Subang Jaya,Apartment,4.0,4.0,1.0,930 sq. ft.,Fully Furnished,"RM 2,450",2025-06-12,3.5
+KV100996,Puchong,Terrace House,5.0,4.0,2.0,"1,630 sq. ft.",,"RM 2,850",18/09/2025,4.4
+KV100935,BANGSAR,Condominium,4.0,3.0,2.0,,Unfurnished,"RM 6,200",2026-03-23,
+KV100293,MONT KIARA,Condominium,4.0,3.0,1.0,"1,270 sq. ft.",fully furnished,"RM 5,850",2025-04-12,4.8
+KV100364,KLCC  ,Condominium,4.0,3.0,3.0,"1,080 sq. ft.",Partially Furnished,"RM 5,250",2025-07-29,3.8
+KV101156,Petaling Jaya,Condominium,,2.0,1.0,"1,270 sq. ft.",Partially Furnished,"RM 3,400",2026-06-20,4.5
+KV100659,Subang Jaya,Serviced Residence,2.0,1.0,2.0,930 sq. ft.,Full Furnished,"RM 2,650",2026-05-10,4.1
+KV100014,setapak,Condominium,4.0,3.0,2.0,"1,100 sq. ft.",Fully Furnished,"RM 2,550",2025-04-06,3.4
+KV100686,Subang Jaya,Condominium,3.0,3.0,,840 sq. ft.,fully furnished,"RM 2,500",2025-07-11,3.2
+KV100086,Kajang,Serviced Residence,2.0,2.0,2.0,630 sq. ft.,Partially Furnished,"RM 1,150",2026-04-24,3.8
+KV100370,Setapak,Serviced Residence,3.0,2.0,2.0,"1,120 sq. ft.",Fully Furnished,"RM 2,700",2025-10-03,3.5
+KV100165,Kajang,Serviced Residence,4.0,4.0,,"1,170 sq. ft.",Fully Furnished,"RM 2,250",09/07/2025,3.5
+KV100131,Subang Jaya,Apartment,3.0,3.0,2.0,650 sq. ft.,Full Furnished,"RM 1,900",2025-04-10,4.4
+KV100335,Mont Kiara,Apartment,3.0,,2.0,"1,000 sq. ft.",Partially Furnished,"RM 3,950",2026-01-09,
+KV100059,Mont Kiara,Apartment,2.0,,1.0,930 sq. ft.,Partially Furnished,"RM 3,600",2025-08-27,5.0
+KV100709,Kajang,Serviced Residence,3.0,3.0,,960 sq. ft.,NOT FURNISHED,"RM 1,750",2025-09-18,4.6
+KV100951,Ampang,Condominium,3.0,2.0,2.0,"1,360 sq. ft.",Partially Furnished,"RM 3,800",28/05/2026,5.0
+KV100676,Cheras,Condominium,3.0,2.0,2.0,"1,140 sq. ft.",,"RM 2,100",2025-05-20,3.7
+KV100354,KLCC,Apartment,4.0,4.0,1.0,810 sq. ft.,Fully Furnished,"RM 3,950",17/12/2025,3.7
+KV100780,Shah Alam  ,Serviced Residence,2.0,2.0,,"1,080 sq. ft.",Partially Furnished,"RM 2,250",01/05/2025,
+KV100424,Setapak,Studio,1.0,1.0,0.0,400 sq. ft.,Partially Furnished,RM 800,2026-06-10,4.0
+KV100292,Puchong,Condominium,3.0,2.0,2.0,"12,714 sq. ft.",FULLY FURNISHED,"RM 2,000",2026-06-01,4.8
+KV100041,Petaling Jaya,Condominium,2.0,1.0,0.0,"1,440 sq. ft.",,"RM 4,350",2025-07-16,3.7
+KV101093,Subang Jaya,Terrace House,4.0,,2.0,"2,060 sq. ft.",Not Furnished,"RM 3,250",2025-07-05,3.4
+KV100329,Cyberjaya,Apartment,,2.0,,"1,020 sq. ft.",Not Furnished,"RM 1,750",2025-09-07,4.2
+KV100614,Subang Jaya,Serviced Residence,2.0,1.0,2.0,900 sq. ft.,FULLY FURNISHED,"RM 3,000",2026-05-14,4.5
+KV100429,Cheras,Condominium,4.0,4.0,3.0,"1,420 sq. ft.",Fully Furnished,"RM 3,400",24/04/2026,
+KV100079,Bangsar,Condominium,2.0,2.0,1.0,"1,300 sq. ft.",Fully Furnished,"RM 7,400",2026-07-01,3.4
+KV100693,Shah Alam,Studio,1.0,1.0,2.0,440 sq. ft.,,"RM 1,150",27/01/2026,3.8
+KV100028,Shah Alam,Condominium,2.0,2.0,1.0,"1,080 sq. ft.",Not Furnished,"RM 2,000",2026-06-29,3.1
+KV100707,Bangsar,Apartment,3.0,2.0,0.0,"1,000 sq. ft.",Partially Furnished,"RM 3,700",2026-06-10,4.2
+KV100892,Cyberjaya,Apartment,2.0,2.0,0.0,660 sq. ft.,Fully Furnished,"RM 1,300",2026-04-20,4.0
+KV100986,petaling jaya,Serviced Residence,2.0,1.0,1.0,,not furnished,"RM 2,150",2025-11-21,3.7
+KV100960,Petaling Jaya,Serviced Residence,4.0,3.0,2.0,"1,000 sq. ft.",Fully Furnished,"RM 3,200",26/06/2025,5.0
+KV100890,Shah Alam,Apartment,2.0,,,770 sq. ft.,PARTIALLY FURNISHED,"RM 1,500",2026-04-16,4.1
+KV100254,Bangsar,Serviced Residence,2.0,2.0,,860 sq. ft.,Not Furnished,"RM 3,150",2026-04-17,4.5
+KV100160,Cheras,Condominium,3.0,2.0,0.0,"1,150 sq. ft.",Partially Furnished,"RM 2,450",2025-11-05,4.3
+KV100458,  Subang Jaya ,Terrace House,3.0,2.0,2.0,"1,710 sq. ft.",fully furnished,"RM 3,550",2025-05-20,3.0
+KV100383,KLCC,Apartment,3.0,,,600 sq. ft.,Fully Furnished,"RM 3,150",2026-02-22,3.9
+KV100313,Kajang,Condominium,3.0,2.0,2.0,"1,200 sq. ft.",Partially Furnished,"RM 2,250",2026-08-30,3.7
+KV100084,SUBANG JAYA,Apartment,2.0,,1.0,730 sq. ft.,Not Furnished,"RM 1,450",09/10/2025,3.5
+KV100574,Subang Jaya,Serviced Residence,4.0,3.0,,900 sq. ft.,Fully Furnished,"RM 3,000",2025-09-26,3.7
+KV100762,Ampang  ,Terrace House,5.0,4.0,,"1,420 sq. ft.",,"RM 3,200",05/08/2026,3.8
+KV100136,Cheras,Condominium,4.0,3.0,3.0,"1,180 sq. ft.",Not Furnished,"RM 56,848",2026-06-27,3.4
+KV100111,Subang Jaya,Apartment,4.0,4.0,,850 sq. ft.,Partially Furnished,"RM 1,750",21/03/2025,4.4
+KV100194,CYBERJAYA,Terrace House,4.0,3.0,2.0,"2,070 sq. ft.",Not Furnished,"RM 3,350",2026-06-26,
+KV100852,Mont Kiara,Apartment,2.0,1.0,,780 sq. ft.,Fully Furnished,"RM 3,800",09/08/2025,4.2
+KV100178,Kajang,Apartment,3.0,,2.0,980 sq. ft.,Partially Furnished,"RM 1,600",2025-07-01,4.2
+KV100555,Petaling Jaya,Condominium,2.0,2.0,,"1,070 sq. ft.",Unfurnished,"RM 2,750",28/04/2025,3.8
+KV100723,KLCC,Terrace House,4.0,4.0,2.0,"1,490 sq. ft.",Fully Furnished,"RM 5,600",13/07/2025,4.2
+KV100859,Mont Kiara,Serviced Residence,4.0,3.0,,660 sq. ft.,Partially Furnished,"RM 3,550",2025-12-04,3.9
+KV100496,Ampang,Apartment,2.0,2.0,2.0,670 sq. ft.,Fully Furnished,"RM 2,000",2025-09-08,
+KV101184,KLCC,Studio,1.0,1.0,-0.0,450 sq. ft.,Not Furnished,"RM 2,150",2025-08-30,3.5
+KV100805,Bangsar,Serviced Residence,4.0,3.0,,"1,110 sq. ft.",Fully Furnished,"RM 5,500",2026-06-24,4.5
+KV100129,SHAH ALAM,Condominium,4.0,3.0,1.0,"1,330 sq. ft.",Partially Furnished,"RM 2,950",21/08/2025,3.9
+KV100715,Ampang,Condominium,3.0,2.0,0.0,"1,080 sq. ft.",Not Furnished,"RM 2,650",2025-08-22,4.5
+KV100337,Setapak,Condominium,3.0,2.0,0.0,"1,030 sq. ft.",Fully Furnished,"RM 2,500",2026-08-08,4.1
+KV100184,Ampang,Condominium,3.0,3.0,2.0,"1,390 sq. ft.",Not Furnished,"RM 3,100",2026-05-06,
+KV100608,Bangsar,Apartment,2.0,1.0,2.0,870 sq. ft.,Partially Furnished,"RM 2,900",2025-10-07,4.0
+KV100124,Subang Jaya,Studio,1.0,1.0,-0.0,450 sq. ft.,fully furnished,"RM 1,450",2025-11-12,3.5
+KV100195,Mont Kiara,Condominium,4.0,4.0,2.0,"1,250 sq. ft.",Not Furnished,"RM 4,800",10/11/2025,
+KV100226,AMPANG,Condominium,4.0,4.0,2.0,"1,300 sq. ft.",Partly Furnished,"RM 4,450",2025-10-26,
+KV100689,KAJANG,Apartment,4.0,3.0,1.0,770 sq. ft.,Fully Furnished,"RM 1,250",2026-06-18,3.1
+KV100268,Cheras,Serviced Residence,2.0,2.0,1.0,890 sq. ft.,Full Furnished,"RM 2,650",2026-05-29,4.0
+KV100152,Cyberjaya,Apartment,3.0,3.0,2.0,"1,040 sq. ft.",Partially Furnished,"RM 2,150",2025-12-22,4.2
+KV100909,KLCC,Condominium,4.0,4.0,1.0,"1,310 sq. ft.",Fully Furnished,"RM 7,800",09/07/2025,4.2
+KV100584,Setapak,Serviced Residence,2.0,1.0,0.0,970 sq. ft.,Fully Furnished,"RM 2,300",2026-02-22,3.5
+KV100970,Cheras,Terrace House,5.0,4.0,,"1,650 sq. ft.",NOT FURNISHED,"RM 2,700",2025-12-19,4.0
+KV100103,Cheras  ,Studio,1.0,1.0,0.0,420 sq. ft.,Not Furnished,RM 850,2025-05-30,
+KV100593,Subang Jaya,Condominium,4.0,3.0,2.0,"1,020 sq. ft.",Fully Furnished,"RM 3,000",2026-02-05,4.5
+KV101133,Puchong  ,Condominium,4.0,3.0,,"1,110 sq. ft.",Partially Furnished,"RM 1,950",2026-05-26,4.3
+KV100786,Petaling Jaya,Serviced Residence,2.0,1.0,1.0,870 sq. ft.,Fully Furnished,"RM 2,700",27/06/2026,4.3
+KV100719,Shah Alam,Serviced Residence,3.0,2.0,0.0,840 sq. ft.,Fully Furnished,"RM 2,500",2025-12-04,
+KV100884,Bangsar,Serviced Residence,4.0,3.0,2.0,670 sq. ft.,Not Furnished,"RM 2,550",2026-04-22,5.0
+KV100776,Mont Kiara  ,Condominium,4.0,3.0,2.0,"1,230 sq. ft.",Partially Furnished,"RM 4,550",2025-03-20,4.4
+KV100968,Setapak,Apartment,2.0,1.0,0.0,"1,230 sq. ft.",NOT FURNISHED,"RM 67,289",2025-09-04,3.4
+KV100849,kajang,Condominium,2.0,2.0,2.0,990 sq. ft.,Fully Furnished,"RM 2,150",30/12/2025,3.6
+KV100894,Mont Kiara,Serviced Residence,3.0,2.0,2.0,"1,240 sq. ft.",Fully Furnished,"RM 6,900",01/07/2025,
+KV100227,Kajang,Serviced Residence,3.0,3.0,,"1,200 sq. ft.",Full Furnished,"RM 2,650",2025-04-03,4.0
+KV101155,Shah Alam,Serviced Residence,3.0,2.0,0.0,840 sq. ft.,Partly Furnished,"RM 2,200",30/08/2026,3.5
+KV100301,Kajang,Apartment,2.0,1.0,0.0,"1,020 sq. ft.",Not Furnished,"RM 1,400",2025-11-15,4.6
+KV100854,Cyberjaya,Serviced Residence,4.0,4.0,,970 sq. ft.,Full Furnished,"RM 2,550",2025-07-14,4.9
+KV100275,Setapak,Terrace House,5.0,4.0,2.0,"1,780 sq. ft.",Fully Furnished,"RM 3,300",2026-05-15,2.9
+KV100126,Ampang,Serviced Residence,2.0,1.0,1.0,"1,070 sq. ft.",Partially Furnished,"RM 3,150",14/11/2025,4.2
+KV100405,Puchong,Condominium,4.0,3.0,1.0,"1,470 sq. ft.",Not Furnished,"RM 2,600",07/12/2025,4.6
+KV100775,Setapak,Terrace House,5.0,,2.0,,Partially Furnished,"RM 2,550",2025-10-17,
+KV100821,cheras,Terrace House,4.0,3.0,,"1,650 sq. ft.",,"RM 3,350",2025-11-19,3.7
+KV100711,Ampang,Condominium,4.0,4.0,3.0,950 sq. ft.,PARTIALLY FURNISHED,"RM 2,600",14/05/2025,7.0
+KV100765,Mont Kiara  ,Terrace House,5.0,5.0,3.0,"1,620 sq. ft.",,"RM 4,350",03/08/2025,4.3
+KV100683,Mont Kiara,Condominium,2.0,2.0,2.0,"1,350 sq. ft.",Fully Furnished,"RM 6,650",2025-04-11,3.1
+KV100749,SHAH ALAM,Condominium,4.0,4.0,2.0,"1,340 sq. ft.",partially furnished,"RM 2,850",2026-05-22,2.4
+KV101158,Kajang,Terrace House,5.0,4.0,2.0,"1,770 sq. ft.",Full Furnished,"RM 2,450",02/01/2026,5.0
+KV100036,cheras,Serviced Residence,3.0,3.0,2.0,900 sq. ft.,,"RM 2,150",30/05/2025,4.1
+KV100139,KLCC,Studio,1.0,1.0,0.0,360 sq. ft.,,"RM 2,350",2026-07-18,4.4
+KV100303,KLCC,Condominium,4.0,,2.0,"1,060 sq. ft.",PARTIALLY FURNISHED,"RM 5,250",11/02/2026,3.9
+KV100267,Ampang,Condominium,2.0,1.0,0.0,"1,370 sq. ft.",Not Furnished,"RM 3,500",05/09/2025,4.6
+KV100834,Ampang,Condominium,3.0,3.0,2.0,"1,520 sq. ft.",Fully Furnished,"RM 4,800",04/06/2026,3.3
+KV100533,Petaling Jaya,Serviced Residence,4.0,4.0,2.0,820 sq. ft.,Not Furnished,"RM 2,150",2025-10-12,4.4
+KV100545,Petaling Jaya,Serviced Residence,3.0,2.0,,990 sq. ft.,Partly Furnished,"RM 2,900",2025-10-18,3.7
+KV100212,Setapak,Apartment,4.0,4.0,2.0,970 sq. ft.,fully furnished,"RM 1,900",2025-08-02,
+KV100896,Kajang,Condominium,2.0,,1.0,"1,560 sq. ft.",Partially Furnished,"RM 2,900",2026-06-26,4.5
+KV100468,  Bangsar ,Condominium,2.0,1.0,,"1,000 sq. ft.",Partially Furnished,"RM 3,950",16/02/2026,4.2
+KV100198,Kajang,Condominium,4.0,3.0,3.0,"1,300 sq. ft.",Fully Furnished,"RM 2,850",10/04/2025,4.3
+KV101060,Subang Jaya,Serviced Residence,3.0,,2.0,,Partially Furnished,"RM 2,450",2026-05-21,3.1
+KV100867,Setapak,Apartment,2.0,1.0,2.0,770 sq. ft.,Fully Furnished,"RM 1,650",16/11/2025,0.0
+KV100672,  Setapak ,Serviced Residence,3.0,2.0,2.0,830 sq. ft.,Partially Furnished,"RM 1,700",03/06/2026,5.0
+KV100916,Cyberjaya,Apartment,3.0,2.0,2.0,850 sq. ft.,Fully Furnished,"RM 1,950",2025-11-01,4.1
+KV100527,Subang Jaya,Terrace House,4.0,3.0,1.0,"1,480 sq. ft.",Fully Furnished,"RM 2,900",2025-05-10,4.1
+KV100675,Bangsar,Terrace House,5.0,4.0,2.0,"1,430 sq. ft.",partially furnished,"RM 4,300",11/01/2026,3.6
+KV101086,Bangsar,Apartment,4.0,3.0,1.0,,fully furnished,"RM 3,700",12/11/2025,3.5
+KV100814,Bangsar,Apartment,3.0,,,780 sq. ft.,Fully Furnished,"RM 48,174",2026-01-08,4.4
+KV100241,Petaling Jaya,Apartment,4.0,3.0,1.0,820 sq. ft.,Fully Furnished,"RM 2,450",2025-10-30,4.1
+KV100342,Mont Kiara,Apartment,2.0,2.0,1.0,980 sq. ft.,Fully Furnished,"RM 4,250",12/06/2026,3.8
+KV100549,KLCC  ,Serviced Residence,3.0,2.0,2.0,870 sq. ft.,Not Furnished,"RM 3,600",15/08/2026,4.0
+KV100386,  Ampang ,Condominium,2.0,1.0,,"1,270 sq. ft.",Full Furnished,"RM 4,100",2025-07-15,4.2
+KV101137,Cyberjaya,Serviced Residence,4.0,3.0,,"1,030 sq. ft.",Fully Furnished,"RM 2,850",30/08/2025,4.1
+KV100966,Mont Kiara,Condominium,2.0,2.0,,"1,360 sq. ft.",Fully Furnished,"RM 7,350",24/07/2026,4.0
+KV100206,Cyberjaya,Serviced Residence,2.0,1.0,2.0,820 sq. ft.,,"RM 1,850",2026-07-26,3.1
+KV100295,Mont Kiara,Terrace House,5.0,5.0,2.0,"1,980 sq. ft.",Fully Furnished,"RM 7,500",2026-06-16,
+KV100695,Subang Jaya,Apartment,4.0,3.0,3.0,660 sq. ft.,Fully Furnished,"RM 1,750",2025-03-23,3.7
+KV101071,Subang Jaya,Serviced Residence,3.0,3.0,,900 sq. ft.,not furnished,"RM 2,000",11/12/2025,3.9
+KV100073,KLCC,Condominium,3.0,2.0,,"1,230 sq. ft.",Not Furnished,"RM 5,600",2026-02-22,4.0
+KV100605,  Cyberjaya ,Studio,1.0,1.0,,340 sq. ft.,Not Furnished,RM 850,2026-03-12,3.7
+KV100104,petaling jaya,Serviced Residence,3.0,,,840 sq. ft.,Not Furnished,"RM 2,000",2026-07-27,3.8
+KV101015,Bangsar  ,Condominium,3.0,,2.0,"1,390 sq. ft.",Not Furnished,"RM 5,500",2025-12-21,4.1
+KV101037,Cyberjaya,Condominium,4.0,4.0,3.0,,Partially Furnished,"RM 2,300",2025-09-21,
+KV101053,Puchong,Serviced Residence,3.0,3.0,2.0,950 sq. ft.,Partially Furnished,"RM 2,050",08/04/2026,3.8
+KV100016,Petaling Jaya,Condominium,3.0,2.0,2.0,"1,270 sq. ft.",Fully Furnished,"RM 4,000",2026-04-20,4.1
+KV100439,Ampang  ,Condominium,4.0,4.0,1.0,"1,000 sq. ft.",Not Furnished,"RM 2,800",2025-08-19,3.6
+KV100091,Puchong,Terrace House,5.0,4.0,3.0,"1,300 sq. ft.",Fully Furnished,"RM 2,500",2025-09-26,3.7
+KV100088,Mont Kiara,Condominium,2.0,1.0,2.0,"1,000 sq. ft.",Partly Furnished,"RM 5,250",2026-02-02,3.9
+KV101070,  Cyberjaya ,Serviced Residence,3.0,2.0,2.0,850 sq. ft.,Fully Furnished,"RM 2,050",2026-04-20,3.7
+KV100908,  Petaling Jaya ,Condominium,4.0,4.0,2.0,820 sq. ft.,Partially Furnished,"RM 2,400",2025-04-05,
+KV100450,Kajang,Serviced Residence,3.0,2.0,2.0,"1,020 sq. ft.",Partially Furnished,"RM 1,850",29/04/2026,3.6
+KV100717,  Bangsar ,Condominium,3.0,3.0,,"1,030 sq. ft.",Partially Furnished,"RM 3,700",25/08/2026,3.4
+KV100102,Subang Jaya,Apartment,3.0,3.0,2.0,780 sq. ft.,Not Furnished,"RM 1,550",29/06/2026,
+KV100238,Cyberjaya,Condominium,,3.0,,950 sq. ft.,Fully Furnished,"RM 2,300",2026-03-19,4.4
+KV100068,Mont Kiara,Apartment,3.0,2.0,2.0,870 sq. ft.,Not Furnished,"RM 2,600",2025-12-30,3.5
+KV100942,Petaling Jaya,Serviced Residence,2.0,2.0,,500 sq. ft.,Partially Furnished,"RM 1,400",24/02/2026,4.1
+KV100246,Ampang  ,Apartment,4.0,3.0,2.0,920 sq. ft.,Partially Furnished,"RM 2,650",10/05/2025,3.3
+KV100938,kajang,Serviced Residence,3.0,2.0,2.0,"13,760 sq. ft.",,"RM 1,900",2025-09-11,4.5
+KV101104,Petaling Jaya,Condominium,4.0,3.0,3.0,840 sq. ft.,Fully Furnished,"RM 2,600",17/01/2026,3.7
+KV100157,Shah Alam,Condominium,4.0,3.0,3.0,"1,650 sq. ft.",Fully Furnished,"RM 4,750",2026-03-18,3.2
+KV100479,BANGSAR,Condominium,2.0,2.0,2.0,"1,160 sq. ft.",Partially Furnished,"RM 5,100",2025-12-11,4.0
+KV100838,Petaling Jaya,Condominium,2.0,,2.0,940 sq. ft.,Not Furnished,"RM 2,050",2026-01-13,3.7
+KV100645,  Ampang ,Apartment,4.0,3.0,3.0,780 sq. ft.,Fully Furnished,"RM 2,300",01/08/2025,3.2
+KV100005,Mont Kiara,Apartment,3.0,2.0,2.0,760 sq. ft.,Not Furnished,"RM 2,650",2025-12-30,3.0
+KV101111,Petaling Jaya,Terrace House,5.0,4.0,2.0,"1,520 sq. ft.",Fully Furnished,"RM 4,000",2026-02-02,3.1
+KV100871,Kajang  ,Serviced Residence,2.0,1.0,0.0,900 sq. ft.,Fully Furnished,"RM 2,100",2026-01-18,3.1
+KV100965,Subang Jaya,Serviced Residence,3.0,3.0,2.0,950 sq. ft.,Partially Furnished,"RM 2,350",2026-04-18,4.6
+KV100018,Cyberjaya  ,Serviced Residence,4.0,3.0,3.0,"1,030 sq. ft.",Not Furnished,"RM 2,550",14/07/2025,3.8
+KV101033,Petaling Jaya,Apartment,4.0,3.0,1.0,750 sq. ft.,Fully Furnished,"RM 2,000",2026-06-06,4.0
+KV100121,cheras,Studio,1.0,1.0,-0.0,470 sq. ft.,NOT FURNISHED,"RM 1,000",2026-04-11,3.9
+KV100946,Subang Jaya,Apartment,3.0,3.0,0.0,"1,000 sq. ft.",Partially Furnished,"RM 2,400",2025-07-01,3.9
+KV100661,mont kiara,Condominium,3.0,3.0,0.0,"1,030 sq. ft.",Not Furnished,"RM 3,650",2026-04-01,3.4
+KV101073,Cheras,Condominium,4.0,4.0,2.0,910 sq. ft.,Not Furnished,"RM 1,750",2026-06-29,3.3
+KV100274,Bangsar,Apartment,4.0,3.0,3.0,880 sq. ft.,partially furnished,"RM 3,200",2026-08-12,3.8
+KV100433,Cheras,Apartment,3.0,2.0,2.0,880 sq. ft.,Partially Furnished,"RM 1,500",2025-11-13,3.4
+KV100811,Bangsar,Condominium,3.0,2.0,,"1,140 sq. ft.",Fully Furnished,"RM 4,750",2025-06-16,4.3
+KV101181,ampang,Condominium,3.0,2.0,2.0,"1,140 sq. ft.",Fully Furnished,"RM 3,300",2025-08-22,3.8
+KV101159,KLCC,Serviced Residence,3.0,3.0,2.0,"1,060 sq. ft.",Fully Furnished,"RM 6,600",2025-07-15,4.0
+KV100181,Kajang  ,Apartment,3.0,2.0,2.0,"1,000 sq. ft.",FULLY FURNISHED,"RM 1,350",2026-06-22,
+KV100184,Ampang,Condominium,3.0,3.0,2.0,"1,390 sq. ft.",Not Furnished,"RM 3,100",2026-05-06,
+KV100406,Ampang,Serviced Residence,2.0,1.0,,970 sq. ft.,Fully Furnished,"RM 3,300",2025-11-03,
+KV100865,Cyberjaya,Condominium,3.0,3.0,,"1,020 sq. ft.",Partially Furnished,"RM 2,550",2025-09-26,1.5
+KV100520,bangsar,Condominium,4.0,3.0,3.0,"1,040 sq. ft.",Not Furnished,"RM 3,400",2025-12-31,3.9
+KV101003,Kajang,Condominium,4.0,4.0,2.0,"1,060 sq. ft.",Fully Furnished,"RM 2,300",2025-08-28,4.2
+KV100380,Kajang,Serviced Residence,3.0,3.0,,770 sq. ft.,Not Furnished,"RM 1,450",2026-06-29,3.9
+KV100427,MONT KIARA,Serviced Residence,2.0,1.0,0.0,,Partially Furnished,"RM 3,600",2026-07-11,3.2
+KV100078,subang jaya,Terrace House,4.0,3.0,1.0,"1,660 sq. ft.",Fully Furnished,"RM 3,450",15/05/2026,4.1
+KV101009,  Kajang ,Condominium,2.0,,0.0,"1,180 sq. ft.",Partly Furnished,"RM 1,900",2026-03-07,4.1
+KV100170,Cyberjaya,Serviced Residence,2.0,1.0,0.0,680 sq. ft.,Full Furnished,"RM 1,750",2025-05-15,4.1
+KV100607,cyberjaya,Apartment,2.0,1.0,1.0,860 sq. ft.,not furnished,"RM 1,900",2025-03-30,3.7
+KV101088,Mont Kiara,Serviced Residence,2.0,,1.0,830 sq. ft.,Partially Furnished,"RM 3,550",2025-09-24,4.7
+KV101117,Petaling Jaya,Condominium,3.0,2.0,,940 sq. ft.,Not Furnished,"RM 2,450",2025-07-16,7.0
+KV101076,Shah Alam,Apartment,3.0,2.0,,"1,000 sq. ft.",Fully Furnished,"RM 2,600",2025-05-24,4.0
+KV100958,Petaling Jaya  ,Apartment,2.0,2.0,,880 sq. ft.,Not Furnished,"RM 2,050",2026-06-04,
+KV100559,Cyberjaya,Serviced Residence,4.0,4.0,3.0,880 sq. ft.,FULLY FURNISHED,"RM 2,350",2026-02-24,3.0
+KV100846,Puchong,Condominium,2.0,2.0,1.0,"1,430 sq. ft.",Not Furnished,"RM 2,850",06/04/2025,3.5
+KV100690,Shah Alam,Terrace House,3.0,2.0,2.0,,Partially Furnished,"RM 3,300",26/06/2026,3.3
+KV101192,petaling jaya,Condominium,3.0,3.0,2.0,"1,250 sq. ft.",Not Furnished,"RM 2,750",2025-09-27,4.0
+KV101145,Setapak,Serviced Residence,4.0,3.0,2.0,710 sq. ft.,Fully Furnished,"RM 2,100",2025-10-23,5.0
+KV100436,Subang Jaya,Apartment,2.0,1.0,,"1,010 sq. ft.",Fully Furnished,"RM 2,800",2025-05-20,3.5
+KV100490,Bangsar,Terrace House,4.0,3.0,2.0,"1,360 sq. ft.",Fully Furnished,"RM 5,050",2025-05-13,3.4
+KV100107,Puchong  ,Terrace House,3.0,3.0,2.0,"1,440 sq. ft.",Not Furnished,"RM 1,850",2026-08-13,
+KV101126,subang jaya,Apartment,4.0,3.0,3.0,740 sq. ft.,,"RM 1,950",2025-09-28,4.4
+KV100069,Petaling Jaya,Condominium,4.0,4.0,3.0,"1,060 sq. ft.",Fully Furnished,"RM 2,850",22/12/2025,4.1
+KV100808,cyberjaya,Terrace House,5.0,4.0,,"1,340 sq. ft.",Not Furnished,"RM 2,150",2025-10-24,3.5
+KV100011,mont kiara,Serviced Residence,3.0,2.0,2.0,820 sq. ft.,Fully Furnished,"RM 3,450",2026-05-04,
+KV100144,Puchong,Condominium,4.0,3.0,1.0,"1,200 sq. ft.",Partially Furnished,"RM 2,650",19/06/2025,5.0
+KV100917,  Cyberjaya ,Terrace House,4.0,3.0,,"1,320 sq. ft.",Fully Furnished,"RM 3,200",2025-05-02,4.3
+KV100639,Mont Kiara,Terrace House,4.0,4.0,,"1,520 sq. ft.",Fully Furnished,"RM 5,500",03/07/2026,4.3
+KV100176,Bangsar  ,Serviced Residence,3.0,2.0,2.0,"1,050 sq. ft.",FULLY FURNISHED,"RM 5,450",2025-07-22,4.2
+KV100994,Cyberjaya,Apartment,2.0,1.0,2.0,930 sq. ft.,Partially Furnished,"RM 1,750",2025-06-11,2.9
+KV100440,Cheras,Apartment,3.0,3.0,2.0,710 sq. ft.,Not Furnished,"RM 1,050",2026-06-03,4.0
+KV100521,Shah Alam,Condominium,2.0,,0.0,"1,020 sq. ft.",Partially Furnished,"RM 1,950",2026-06-05,
+KV101004,Subang Jaya,Condominium,4.0,3.0,2.0,,Not Furnished,"RM 3,700",2025-06-17,
+KV100143,Ampang,Condominium,2.0,2.0,,"1,280 sq. ft.",Partially Furnished,"RM 4,250",2025-06-08,3.9
+KV100753,  Petaling Jaya ,Apartment,4.0,4.0,2.0,880 sq. ft.,Fully Furnished,"RM 2,350",03/09/2025,4.4
+KV100519,  Shah Alam ,Condominium,4.0,3.0,,"1,130 sq. ft.",Fully Furnished,"RM 3,600",09/11/2025,4.3
+KV100822,Kajang,Serviced Residence,4.0,3.0,2.0,980 sq. ft.,PARTIALLY FURNISHED,"RM 1,350",17/08/2025,4.7
+KV100428,Bangsar,Condominium,2.0,1.0,2.0,"1,020 sq. ft.",Partly Furnished,"RM 4,350",2025-10-04,3.9
+KV100612,Petaling Jaya,Apartment,2.0,1.0,1.0,850 sq. ft.,fully furnished,"RM 2,550",12/08/2026,4.1
+KV101032,Bangsar,Serviced Residence,4.0,4.0,2.0,930 sq. ft.,Partially Furnished,"RM 3,700",19/07/2026,3.4
+KV100156,Shah Alam,Condominium,3.0,3.0,,980 sq. ft.,Partially Furnished,"RM 2,200",11/01/2026,3.9
+KV100539,Kajang,Condominium,4.0,4.0,,"1,000 sq. ft.",Fully Furnished,"RM 2,500",2026-04-29,4.8
+KV100461,Kajang,Condominium,3.0,2.0,,"1,580 sq. ft.",Not Furnished,"RM 2,150",2026-05-20,4.8
+KV100576,Setapak,Apartment,3.0,3.0,0.0,"1,140 sq. ft.",Fully Furnished,"RM 2,200",13/08/2025,4.2
+KV100255,Shah Alam,Terrace House,,,2.0,"1,380 sq. ft.",Not Furnished,"RM 1,950",01/12/2025,3.8
+KV100979,kajang,Terrace House,4.0,4.0,2.0,,Partially Furnished,"RM 2,000",2026-06-17,3.9
+KV101006,Mont Kiara,Studio,1.0,,,450 sq. ft.,Fully Furnished,"RM 2,750",2025-12-25,3.8
+KV100560,Setapak,Apartment,2.0,1.0,0.0,890 sq. ft.,Fully Furnished,"RM 1,900",2026-03-12,5.0
+KV100208,KLCC,Condominium,2.0,1.0,2.0,"1,460 sq. ft.",Not Furnished,"RM 7,050",2026-03-30,3.8
+KV100910,Cheras,Condominium,4.0,3.0,3.0,"1,060 sq. ft.",Not Furnished,"RM 2,250",2026-05-22,2.9
+KV100001,Kajang,Condominium,4.0,3.0,1.0,"1,210 sq. ft.",Fully Furnished,"RM 2,300",2025-04-05,4.7
+KV100269,cheras,Condominium,2.0,,2.0,"1,440 sq. ft.",Not Furnished,"RM 2,400",2026-06-10,4.0
+KV100265,SUBANG JAYA,Condominium,4.0,3.0,,"1,470 sq. ft.",Partially Furnished,"RM 3,650",2026-03-11,4.1
+KV100914,Cheras,Serviced Residence,3.0,2.0,2.0,970 sq. ft.,Fully Furnished,"RM 2,400",2025-05-23,3.7
+KV100230,Puchong,Condominium,0.0,,2.0,"1,240 sq. ft.",Full Furnished,"RM 2,800",2026-05-24,4.2
+KV100177,Kajang,Condominium,3.0,2.0,0.0,860 sq. ft.,Fully Furnished,"RM 1,600",23/12/2025,3.7
+KV101136,Petaling Jaya,Serviced Residence,4.0,3.0,2.0,990 sq. ft.,Fully Furnished,"RM 3,550",2025-09-21,4.1
+KV100864,kajang,Studio,1.0,1.0,2.0,380 sq. ft.,Fully Furnished,RM 850,12/04/2025,4.6
+KV101066,Mont Kiara,Serviced Residence,3.0,2.0,0.0,"1,100 sq. ft.",Fully Furnished,"RM 4,650",2025-06-05,3.6
+KV100873,Ampang,Apartment,4.0,3.0,3.0,800 sq. ft.,Full Furnished,"RM 2,550",15/09/2025,3.5
+KV101097,Kajang,Apartment,2.0,,1.0,810 sq. ft.,Not Furnished,"RM 1,200",2026-08-11,4.6
+KV100398,Ampang  ,Terrace House,5.0,5.0,2.0,"1,830 sq. ft.",Fully Furnished,"RM 4,550",2026-06-09,4.5
+KV101120,KLCC,Apartment,3.0,3.0,2.0,840 sq. ft.,Fully Furnished,"RM 3,700",2026-07-31,4.0
+KV100045,Shah Alam,Condominium,2.0,1.0,1.0,"1,080 sq. ft.",Partly Furnished,"RM 2,700",22/12/2025,4.2
+KV100161,Puchong,Terrace House,3.0,2.0,2.0,"1,210 sq. ft.",Partially Furnished,"RM 1,550",2026-07-22,
+KV100991,Puchong,Apartment,2.0,1.0,1.0,960 sq. ft.,partially furnished,"RM 1,600",2025-05-02,3.5
+KV100727,Setapak,Condominium,4.0,3.0,2.0,"1,290 sq. ft.",Partially Furnished,"RM 2,600",2025-06-15,4.3
+KV100629,Bangsar,Serviced Residence,3.0,2.0,2.0,"1,000 sq. ft.",Fully Furnished,"RM 3,700",2026-06-01,4.3
+KV100288,CYBERJAYA,Condominium,3.0,2.0,2.0,"1,010 sq. ft.",Fully Furnished,"RM 2,400",12/03/2025,3.9
+KV101059,Puchong  ,Condominium,2.0,2.0,1.0,"1,610 sq. ft.",FULLY FURNISHED,"RM 3,750",30/06/2025,3.3
+KV100480,Petaling Jaya,Apartment,4.0,3.0,,990 sq. ft.,Partly Furnished,"-RM 1,200",18/03/2025,4.0
+KV100575,KLCC,Serviced Residence,4.0,3.0,2.0,980 sq. ft.,Partially Furnished,"RM 4,550",2025-05-21,4.5
+KV100850,Bangsar,Serviced Residence,0.0,3.0,2.0,870 sq. ft.,Partially Furnished,"RM 3,150",2026-04-27,5.0
+KV100911,Cyberjaya,Serviced Residence,,1.0,1.0,"1,040 sq. ft.",Fully Furnished,"RM 3,050",2025-07-16,3.2
+KV101113,  Ampang ,Studio,1.0,1.0,,340 sq. ft.,PARTIALLY FURNISHED,"RM 1,000",28/08/2025,3.4
+KV100932,  Ampang ,Serviced Residence,2.0,1.0,,790 sq. ft.,Not Furnished,"RM 2,200",2026-02-16,4.1
+KV101100,Setapak  ,Apartment,4.0,3.0,,720 sq. ft.,PARTIALLY FURNISHED,"RM 1,100",2026-07-09,5.0
+KV100247,Mont Kiara,Apartment,3.0,,2.0,540 sq. ft.,PARTIALLY FURNISHED,"RM 2,050",2025-05-11,3.8
+KV100476,KLCC  ,Terrace House,4.0,3.0,2.0,"1,980 sq. ft.",Not Furnished,"RM 6,550",2025-12-24,3.5
+KV100085,  Setapak ,Serviced Residence,4.0,3.0,2.0,770 sq. ft.,Not Furnished,"RM 1,350",2025-07-25,4.0
+KV100469,Cheras,Terrace House,5.0,5.0,3.0,"1,540 sq. ft.",Fully Furnished,"RM 2,700",2025-11-02,
+KV100225,KLCC,Condominium,2.0,2.0,0.0,"1,340 sq. ft.",,"RM 5,950",13/05/2025,4.1
+KV100774,cyberjaya,Apartment,3.0,2.0,,930 sq. ft.,Fully Furnished,RM 0,23/10/2025,3.7
+KV100331,Bangsar,Condominium,2.0,,1.0,"1,240 sq. ft.",Fully Furnished,"RM 5,950",2025-09-22,4.0
+KV100233,Ampang,Condominium,4.0,4.0,3.0,"1,120 sq. ft.",Partially Furnished,"RM 3,050",2026-02-11,
+KV100588,Mont Kiara,Serviced Residence,2.0,1.0,1.0,900 sq. ft.,Partially Furnished,"RM 4,100",08/06/2025,3.5
+KV100475,PUCHONG,Condominium,4.0,4.0,1.0,"1,190 sq. ft.",Partially Furnished,"RM 2,300",2026-01-03,4.1
+KV100599,PETALING JAYA,Apartment,4.0,3.0,2.0,990 sq. ft.,Partly Furnished,"RM 2,400",2025-08-29,3.1
+KV100421,Petaling Jaya,Apartment,4.0,3.0,2.0,"1,020 sq. ft.",Not Furnished,"RM 1,800",2025-09-27,3.8
+KV100182,Kajang,Condominium,4.0,3.0,1.0,"1,360 sq. ft.",Fully Furnished,"RM 2,850",2026-07-26,3.9
+KV100988,mont kiara,Serviced Residence,2.0,1.0,0.0,"1,050 sq. ft.",Not Furnished,"RM 4,400",2026-04-03,4.6
+KV101000,SETAPAK,Terrace House,4.0,3.0,3.0,"1,620 sq. ft.",Not Furnished,"RM 2,450",2026-08-18,3.8
+KV100049,Mont Kiara,Serviced Residence,3.0,3.0,,,Fully Furnished,"RM 6,050",2026-02-17,4.2
+KV101152,Kajang  ,Terrace House,5.0,4.0,,"1,240 sq. ft.",Partially Furnished,"RM 1,700",21/06/2026,4.7
+KV101029,Cyberjaya,Apartment,3.0,3.0,2.0,750 sq. ft.,Fully Furnished,"RM 2,000",08/05/2026,4.3
+KV100529,Petaling Jaya,Terrace House,5.0,4.0,,"1,770 sq. ft.",Partially Furnished,"RM 3,700",2025-11-10,
+KV100486,Ampang,Condominium,3.0,2.0,0.0,"1,080 sq. ft.",Fully Furnished,"RM 3,400",19/04/2025,3.2
+KV100497,Petaling Jaya,Serviced Residence,2.0,1.0,,890 sq. ft.,Not Furnished,"RM 2,250",2025-11-10,3.2
+KV100106,Puchong,Condominium,4.0,4.0,1.0,"1,510 sq. ft.",Not Furnished,"RM 2,650",2026-08-08,4.4
+KV100443,KAJANG,Condominium,2.0,,,"1,430 sq. ft.",Unfurnished,"RM 2,000",2025-07-29,3.5
+KV100646,Bangsar,Serviced Residence,4.0,4.0,2.0,840 sq. ft.,Fully Furnished,"RM 4,150",2025-09-05,5.0
+KV101036,SUBANG JAYA,Apartment,3.0,2.0,0.0,740 sq. ft.,Partially Furnished,"RM 1,600",2025-05-11,4.1
+KV100726,Subang Jaya,Apartment,3.0,3.0,0.0,760 sq. ft.,Partially Furnished,"RM 1,750",08/08/2026,3.6
+KV100190,  Bangsar ,Apartment,3.0,2.0,2.0,970 sq. ft.,Partially Furnished,"RM 3,400",2026-08-02,4.7
+KV100282,Petaling Jaya,Condominium,3.0,2.0,2.0,"1,510 sq. ft.",Partially Furnished,"RM 4,100",19/03/2026,4.0
+KV100029,Cheras,Condominium,4.0,3.0,2.0,"1,350 sq. ft.",Fully Furnished,"RM 3,150",2026-04-25,4.1
+KV100169,Bangsar,Apartment,4.0,3.0,3.0,"1,100 sq. ft.",partially furnished,"RM 3,700",2025-06-17,4.1
+KV101001,SETAPAK,Apartment,4.0,3.0,3.0,"1,050 sq. ft.",Partially Furnished,"RM 1,900",2026-07-01,3.8
+KV100100,KLCC,Condominium,3.0,3.0,2.0,"1,150 sq. ft.",Partly Furnished,"RM 5,400",2025-05-07,4.9
+KV100197,Petaling Jaya,Condominium,4.0,4.0,2.0,"1,040 sq. ft.",Fully Furnished,"RM 3,000",2026-02-14,4.7
+KV100495,Mont Kiara  ,Apartment,2.0,1.0,,910 sq. ft.,,"RM 3,500",13/03/2026,4.4
+KV100647,Ampang,Condominium,4.0,3.0,,990 sq. ft.,Fully Furnished,"RM 3,100",2026-03-13,
+KV100987,Petaling Jaya,Terrace House,3.0,2.0,2.0,"1,560 sq. ft.",Not Furnished,"RM 2,600",25/02/2026,
+KV100044,Kajang,Terrace House,5.0,4.0,3.0,"1,840 sq. ft.",Not Furnished,"RM 2,450",2026-02-28,4.0
+KV100710,  Cyberjaya ,Apartment,3.0,2.0,2.0,660 sq. ft.,FULLY FURNISHED,"RM 82,326",2025-10-08,
+KV100373,Cyberjaya,Condominium,3.0,2.0,2.0,"1,140 sq. ft.",Not Furnished,"RM 2,400",2025-12-03,
+KV100678,KLCC,Apartment,3.0,,2.0,"1,110 sq. ft.",Fully Furnished,"RM 5,700",09/09/2025,4.1
+KV100566,shah alam,Condominium,2.0,2.0,1.0,"1,340 sq. ft.",Fully Furnished,"RM 3,700",2025-08-10,4.2
+KV100847,Ampang,Condominium,2.0,1.0,1.0,980 sq. ft.,Partially Furnished,"RM 3,100",2025-10-24,4.2
+KV100460,  Mont Kiara ,Condominium,2.0,2.0,2.0,"1,050 sq. ft.",,"RM 4,200",2025-12-08,3.4
+KV100039,Puchong  ,Apartment,4.0,3.0,,940 sq. ft.,Fully Furnished,"RM 1,950",24/03/2026,4.5
+KV100434,Puchong,Apartment,4.0,4.0,,800 sq. ft.,Full Furnished,"RM 1,500",2026-04-24,3.7
+KV100973,Cheras,Terrace House,5.0,4.0,2.0,"1,460 sq. ft.",Fully Furnished,"RM 2,500",2026-01-29,3.9
+KV101007,Ampang,Serviced Residence,4.0,3.0,1.0,970 sq. ft.,Fully Furnished,"RM 3,450",2025-12-28,3.9
+KV100456,Cyberjaya,Apartment,4.0,3.0,2.0,830 sq. ft.,Partially Furnished,"RM 1,650",01/11/2025,4.1
+KV100260,petaling jaya,Serviced Residence,3.0,2.0,2.0,640 sq. ft.,Fully Furnished,"RM 2,050",2025-10-01,4.8
+KV100035,Cyberjaya  ,Terrace House,4.0,3.0,2.0,"1,310 sq. ft.",Partially Furnished,"RM 2,350",2025-08-09,3.7
+KV100827,Shah Alam,Serviced Residence,3.0,2.0,2.0,860 sq. ft.,Fully Furnished,"RM 2,600",2026-01-04,3.4
+KV100309,Bangsar,Condominium,4.0,3.0,1.0,"1,200 sq. ft.",Full Furnished,"RM 5,700",20/01/2026,3.6
+KV100276,Bangsar,Condominium,2.0,1.0,0.0,"1,320 sq. ft.",Partially Furnished,"RM 4,950",05/08/2026,6.5
+KV100636,Subang Jaya,Apartment,3.0,2.0,,"1,130 sq. ft.",Not Furnished,"RM 2,350",16/07/2026,4.3
+KV100654,  Petaling Jaya ,Condominium,2.0,1.0,,"1,090 sq. ft.",Not Furnished,"RM 2,700",21/08/2025,6.5
+KV100622,  Mont Kiara ,Serviced Residence,4.0,3.0,,970 sq. ft.,PARTIALLY FURNISHED,"RM 3,850",2025-03-16,
+KV100844,Subang Jaya,Apartment,2.0,,2.0,770 sq. ft.,Not Furnished,"RM 1,400",2026-07-08,
+KV100393,Mont Kiara,Terrace House,5.0,4.0,3.0,"1,340 sq. ft.",Fully Furnished,"RM 4,750",06/08/2025,5.0
+KV100107,Puchong  ,Terrace House,3.0,3.0,2.0,"1,440 sq. ft.",Not Furnished,"RM 1,850",2026-08-13,
+KV100349,Puchong,Studio,1.0,1.0,0.0,530 sq. ft.,PARTIALLY FURNISHED,"RM 1,150",2025-06-08,4.5
+KV100524,Ampang,Apartment,4.0,,,860 sq. ft.,Fully Furnished,"RM 2,650",2026-07-29,3.9
+KV100784,Cyberjaya,Condominium,,1.0,2.0,"1,080 sq. ft.",PARTIALLY FURNISHED,"RM 2,450",2025-11-11,3.7
+KV100047,Petaling Jaya,Apartment,4.0,3.0,3.0,800 sq. ft.,Fully Furnished,"RM 2,500",2026-06-22,3.9
+KV100203,KLCC,Condominium,3.0,3.0,,860 sq. ft.,Partially Furnished,"RM 3,600",2026-08-06,4.3
+KV100021,Petaling Jaya,Serviced Residence,2.0,1.0,1.0,"1,090 sq. ft.",Fully Furnished,"RM 3,950",14/10/2025,
+KV100402,Puchong,Serviced Residence,3.0,2.0,2.0,850 sq. ft.,Partially Furnished,"RM 1,850",26/09/2025,
+KV101107,Cheras,Apartment,4.0,3.0,2.0,810 sq. ft.,Fully Furnished,"RM 2,050",28/03/2026,4.4
+KV101154,Subang Jaya,Serviced Residence,2.0,1.0,0.0,"1,070 sq. ft.",Fully Furnished,"RM 3,100",2026-02-13,
+KV100989,Petaling Jaya,Apartment,2.0,2.0,1.0,790 sq. ft.,Not Furnished,"RM 1,900",2026-03-27,4.4
+KV100741,Mont Kiara,Condominium,3.0,3.0,2.0,"1,420 sq. ft.",Partly Furnished,"RM 7,250",26/03/2025,3.9
+KV101147,Puchong,Apartment,3.0,3.0,,840 sq. ft.,Not Furnished,"RM 1,200",2026-01-02,4.4
+KV100033,Subang Jaya,Terrace House,5.0,4.0,,"1,300 sq. ft.",Fully Furnished,"RM 2,900",26/04/2025,3.4
+KV100787,Cheras,Apartment,2.0,1.0,1.0,850 sq. ft.,PARTIALLY FURNISHED,"RM 1,950",2025-03-24,4.3
+KV100923,Puchong,Apartment,2.0,1.0,1.0,900 sq. ft.,partially furnished,"RM 1,700",2025-03-15,4.5
+KV101043,Puchong,Terrace House,4.0,3.0,2.0,"1,490 sq. ft.",,"RM 1,750",2026-02-21,3.9
+KV101188,Subang Jaya,Apartment,3.0,3.0,,740 sq. ft.,Partially Furnished,"RM 1,500",14/04/2026,2.9
+KV100579,Ampang,Serviced Residence,3.0,2.0,2.0,960 sq. ft.,Not Furnished,"RM 2,350",27/08/2026,4.5
+KV100481,Kajang,Terrace House,5.0,5.0,2.0,"1,790 sq. ft.",Partially Furnished,"RM 2,000",2026-03-20,3.7
+KV100931,Cheras  ,Serviced Residence,3.0,2.0,2.0,"1,160 sq. ft.",Fully Furnished,"RM 2,950",2026-04-04,4.4
+KV100356,cheras,Apartment,4.0,,,"1,010 sq. ft.",Fully Furnished,"RM 2,350",2025-07-10,4.4
+KV100759,Bangsar,Apartment,2.0,1.0,0.0,"1,180 sq. ft.",Not Furnished,"RM 3,200",23/06/2026,
+KV100092,KLCC  ,Terrace House,3.0,3.0,0.0,"1,360 sq. ft.",Fully Furnished,"RM 5,700",2025-06-25,4.0
+KV101175,Shah Alam,Condominium,2.0,1.0,,"1,250 sq. ft.",FULLY FURNISHED,"RM 3,050",2025-10-27,4.0
+KV100803,Kajang,Condominium,3.0,2.0,0.0,,,"RM 2,350",2025-06-04,3.7
+KV100745,Mont Kiara,Serviced Residence,2.0,2.0,,700 sq. ft.,Full Furnished,"RM 3,850",2025-09-16,4.8
+KV100279,Kajang,Condominium,2.0,1.0,1.0,"1,280 sq. ft.",Not Furnished,"RM 1,650",29/11/2025,3.9
+KV100764,Cyberjaya  ,Serviced Residence,4.0,3.0,2.0,"1,000 sq. ft.",Not Furnished,"RM 2,000",2026-04-27,4.2
+KV100604,Petaling Jaya,Serviced Residence,3.0,2.0,2.0,920 sq. ft.,Not Furnished,"RM 2,300",2025-06-06,4.1
+KV100845,BANGSAR,Apartment,2.0,1.0,2.0,830 sq. ft.,fully furnished,"RM 2,750",2026-03-30,3.9
+KV100400,Cyberjaya,Condominium,2.0,2.0,1.0,"1,380 sq. ft.",Partially Furnished,"RM 3,100",2025-06-10,3.6
+KV100257,Bangsar,Serviced Residence,2.0,1.0,0.0,690 sq. ft.,Fully Furnished,"RM 3,400",2025-06-12,3.9
+KV100944,Cyberjaya,Condominium,4.0,4.0,3.0,990 sq. ft.,fully furnished,"RM 2,250",2025-12-24,4.2
+KV101096,Subang Jaya,Terrace House,3.0,2.0,2.0,"1,770 sq. ft.",Not Furnished,"RM 2,850",2026-03-07,3.5
+KV101161,Bangsar,Serviced Residence,3.0,,2.0,"1,110 sq. ft.",Fully Furnished,"RM 5,900",02/04/2026,3.4
+KV100494,Cyberjaya,Condominium,2.0,1.0,2.0,"1,220 sq. ft.",Fully Furnished,"RM 3,100",2026-08-18,4.1
+KV100772,BANGSAR,Condominium,3.0,2.0,0.0,"1,130 sq. ft.",Partially Furnished,"RM 4,750",2025-08-17,6.5
+KV100550,Puchong,Serviced Residence,2.0,1.0,1.0,"1,030 sq. ft.",partially furnished,"RM 2,200",2026-05-19,4.3
+KV100201,Mont Kiara,Apartment,4.0,3.0,3.0,"1,040 sq. ft.",Not Furnished,"RM 3,800",09/08/2026,3.4
+KV100312,Shah Alam,Apartment,2.0,2.0,2.0,820 sq. ft.,Fully Furnished,"RM 1,750",05/12/2025,4.1
+KV100290,Bangsar,Condominium,2.0,1.0,1.0,"1,240 sq. ft.",Not Furnished,"RM 4,350",2026-03-15,3.9
+KV100763,petaling jaya,Condominium,3.0,2.0,2.0,"1,210 sq. ft.",Partially Furnished,"RM 2,900",2026-07-14,4.3
+KV101136,Petaling Jaya,Serviced Residence,4.0,3.0,2.0,990 sq. ft.,Fully Furnished,"RM 3,550",2025-09-21,4.1
+KV100949,Setapak,Apartment,3.0,2.0,,"1,150 sq. ft.",Not Furnished,"RM 1,900",2025-04-03,4.8
+KV100183,Kajang,Serviced Residence,2.0,1.0,2.0,690 sq. ft.,FULLY FURNISHED,"RM 1,500",30/11/2025,
+KV101176,  Kajang ,Condominium,3.0,2.0,0.0,"1,210 sq. ft.",Partially Furnished,"RM 2,000",13/08/2026,3.8
+KV101068,Kajang,Condominium,4.0,3.0,3.0,"1,070 sq. ft.",Fully Furnished,"RM 2,050",30/06/2025,4.9
+KV101030,Cyberjaya,Apartment,3.0,2.0,2.0,,Fully Furnished,"RM 2,350",2025-11-03,4.0
+KV100250,Puchong,Condominium,3.0,2.0,2.0,"1,500 sq. ft.",fully furnished,"RM 3,750",2025-08-01,3.7
+KV100823,Bangsar,Condominium,4.0,3.0,,"1,000 sq. ft.",Partially Furnished,"RM 4,750",2026-06-05,4.1
+KV101099,cyberjaya,Condominium,2.0,1.0,1.0,"1,420 sq. ft.",Partly Furnished,"RM 3,100",2025-03-18,3.5
+KV100940,Cyberjaya,Apartment,,4.0,2.0,"1,210 sq. ft.",Partially Furnished,"RM 2,350",2025-03-22,3.7
+KV100391,Subang Jaya,Studio,1.0,1.0,-0.0,400 sq. ft.,Fully Furnished,"RM 1,200",2025-12-30,4.0
+KV101092,Shah Alam,Condominium,3.0,3.0,,960 sq. ft.,Not Furnished,"RM 1,900",29/07/2025,4.4
+KV101191,Puchong,Studio,1.0,1.0,,460 sq. ft.,Fully Furnished,"RM 1,050",18/10/2025,4.6
+KV100904,Ampang,Terrace House,3.0,2.0,2.0,,Not Furnished,"RM 3,400",2025-06-22,3.2
+KV100730,Cyberjaya,Studio,1.0,1.0,,490 sq. ft.,Fully Furnished,"RM 1,200",2026-08-02,4.3
+KV100554,CYBERJAYA,Condominium,4.0,4.0,1.0,,partially furnished,"RM 2,850",2025-08-02,
+KV100366,Kajang  ,Serviced Residence,4.0,3.0,,"1,010 sq. ft.",Fully Furnished,"RM 1,950",29/04/2026,5.0
+KV100345,PETALING JAYA,Terrace House,5.0,,2.0,"1,960 sq. ft.",Fully Furnished,"RM 5,200",16/05/2025,3.8
+KV100535,Bangsar,Terrace House,4.0,4.0,1.0,"1,600 sq. ft.",Partially Furnished,"RM 4,950",2026-05-20,4.8
+KV100031,Petaling Jaya,Apartment,4.0,3.0,3.0,950 sq. ft.,partially furnished,"RM 50,293",2026-08-03,5.0
+KV100919,Shah Alam,Studio,1.0,1.0,2.0,520 sq. ft.,Partially Furnished,"RM 1,150",2026-04-21,4.0
+KV100211,klcc,Studio,1.0,1.0,0.0,510 sq. ft.,Not Furnished,"RM 2,150",2026-03-28,3.9
+KV100502,Petaling Jaya,Apartment,3.0,2.0,2.0,830 sq. ft.,Fully Furnished,"RM 2,300",2025-12-02,4.2
+KV100537,subang jaya,Apartment,4.0,4.0,3.0,900 sq. ft.,Partially Furnished,"RM 2,000",02/04/2025,3.7
+KV100825,Subang Jaya,Apartment,4.0,3.0,2.0,860 sq. ft.,FULLY FURNISHED,"RM 2,450",13/07/2026,2.8
+KV100175,Puchong,Studio,1.0,1.0,2.0,330 sq. ft.,Full Furnished,RM 750,2026-04-01,4.9
